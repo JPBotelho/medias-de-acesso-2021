@@ -1,0 +1,6271 @@
+
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Antropologia
+9448
+[Lic-1� cic]
+2019f1: 124,5
+2019f2: 125,0
+2020f1: 134,5
+2020f2: 145,5
+5.8
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 150,5
+2019f2: 158,0
+2020f1: 156,5
+2020f2: 163,0
+7.3
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Ci�ncia de Dados
+L188
+[Lic-1� cic]
+2019f1: 148,2
+2019f2: 157,6
+2020f1: 154,2
+2020f2: 163,2
+None
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Ci�ncia de Dados (regime p�s-laboral)
+L189
+[Lic-1� cic]
+2019f1: 133,4
+2019f2: 146,8
+2020f1: 143,0
+2020f2: 159,4
+None
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Ci�ncia Pol�tica
+9019
+[Lic-1� cic]
+2019f1: 155,5
+2019f2: 153,5
+2020f1: 163,0
+2020f2: 160,0
+4.5
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Economia
+9081
+[Lic-1� cic]
+2019f1: 164,0
+2019f2: 166,0
+2020f1: 170,0
+2020f2: 170,5
+1.7
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 155,5
+2019f2: 164,5
+2020f1: 168,5
+2020f2: 179,5
+0.2
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Engenharia Inform�tica (regime p�s-laboral)
+9885
+[Lic-1� cic]
+2019f1: 136,5
+2019f2: 150,5
+2020f1: 150,5
+2020f2: 164,0
+0.2
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Engenharia de Telecomunica��es e Inform�tica
+9098
+[Lic-1� cic]
+2019f1: 128,5
+2019f2: 143,5
+2020f1: 137,8
+2020f2: 161,0
+0.4
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Finan�as e Contabilidade
+8029
+[Lic-1� cic]
+2019f1: 156,0
+2019f2: 162,0
+2020f1: 162,5
+2020f2: 167,0
+1.3
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 168,0
+2019f2: 172,5
+2020f1: 173,5
+2020f2: 179,0
+1.1
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Gest�o Industrial e Log�stica
+L030
+[Lic-1� cic]
+2019f1: 155,0
+2019f2: 165,0
+2020f1: 159,5
+2020f2: 165,0
+1.3
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Gest�o de Marketing
+9156
+[Lic-1� cic]
+2019f1: 161,5
+2019f2: 170,5
+2020f1: 164,0
+2020f2: 169,5
+2.4
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Gest�o de Recursos Humanos
+9157
+[Lic-1� cic]
+2019f1: 164,0
+2019f2: 163,5
+2020f1: 165,5
+2020f2: 165,5
+1.7
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Hist�ria Moderna e Contempor�nea
+9927
+[Lic-1� cic]
+2019f1: 131,0
+2019f2: 133,0
+2020f1: 136,0
+2020f2: 134,5
+3.7
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Inform�tica e Gest�o de Empresas
+9189
+[Lic-1� cic]
+2019f1: 151,5
+2019f2: 165,5
+2020f1: 162,0
+2020f2: 174,0
+1.2
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Inform�tica e Gest�o de Empresas (regime p�s-laboral)
+8366
+[Lic-1� cic]
+2019f1: 142,0
+2019f2: 155,5
+2020f1: 150,5
+2020f2: 164,0
+1.2
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 160,0
+2019f2: 161,0
+2020f1: 168,5
+2020f2: 165,5
+2.7
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Servi�o Social
+9238
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Servi�o Social (regime p�s-laboral)
+8014
+[Lic-1� cic]
+2019f1: 136,0
+2019f2: 143,0
+2020f1: 140,5
+2020f2: 146,5
+4.4
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 141,0
+2019f2: 139,0
+2020f1: 149,0
+2020f2: 151,5
+3.3
+
+ISCTE - Instituto Universit�rio de Lisboa
+6800
+Sociologia (regime p�s-laboral)
+8109
+[Lic-1� cic]
+2019f1: 124,5
+2019f2: 134,5
+2020f1: 128,5
+2020f2: 146,0
+3.3
+
+Universidade dos A�ores - Faculdade de Ci�ncias Agr�rias e do Ambiente
+0140
+Ci�ncias Agr�rias
+9022
+[Lic-1� cic]
+2019f1: �
+2019f2: 122,8
+2020f1: 114,3
+2020f2: 111,0
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Agr�rias e do Ambiente
+0140
+Ci�ncias Farmac�uticas (Preparat�rios)
+8031
+[Prep. MI]
+2019f1: 132,8
+2019f2: 124,8
+2020f1: 141,8
+2020f2: 163,0
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Agr�rias e do Ambiente
+0140
+Ci�ncias da Nutri��o (Preparat�rios)
+8085
+[Prep lic 1 c]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Agr�rias e do Ambiente
+0140
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Agr�rias e do Ambiente
+0140
+Medicina Veterin�ria (Preparat�rios)
+8086
+[Prep. MI]
+2019f1: 148,0
+2019f2: 153,5
+2020f1: 167,7
+2020f2: 166,0
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Agr�rias e do Ambiente
+0140
+Natureza e Patrim�nio
+L121
+[Lic-1� cic]
+2019f1: �
+2019f2: 108,4
+2020f1: 123,6
+2020f2: 106,3
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Arquitetura (Preparat�rios)
+8082
+[Prep. MI]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Educa��o B�sica
+9853
+[Lic-1� cic]
+2019f1: 118,3
+2019f2: 118,3
+2020f1: 117,6
+2020f2: �
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Estudos Euro-Atl�nticos
+L086
+[Lic-1� cic]
+2019f1: 109,7
+2019f2: 103,5
+2020f1: 106,0
+2020f2: 116,1
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Estudos Portugueses e Ingleses
+L041
+[Lic-1� cic]
+2019f1: 108,3
+2019f2: 117,5
+2020f1: 112,9
+2020f2: 118,4
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Hist�ria
+9181
+[Lic-1� cic]
+2019f1: 118,5
+2019f2: 109,5
+2020f1: 138,5
+2020f2: 137,5
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 128,3
+2019f2: 132,3
+2020f1: 137,9
+2020f2: 141,0
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Rela��es P�blicas e Comunica��o
+9798
+[Lic-1� cic]
+2019f1: 106,5
+2019f2: 121,5
+2020f1: 122,2
+2020f2: 120,2
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Servi�o Social
+9238
+[Lic-1� cic]
+2019f1: 113,8
+2019f2: 119,7
+2020f1: 125,3
+2020f2: 132,2
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias Sociais e Humanas
+0150
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 108,9
+2019f2: 106,1
+2020f1: 114,5
+2020f2: 119,1
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 133,9
+2019f2: 109,3
+2020f1: 122,2
+2020f2: 114,6
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Ciclo B�sico de Medicina
+8083
+[Prep. MI]
+2019f1: 174,8
+2019f2: 184,0
+2020f1: 182,5
+2020f2: �
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Ci�nc de Engenharia-Eng Civil; Eng Mec�nica; Eng Eletrot e de Comput (Pre)
+9864
+[Prep. MI]
+2019f1: 131,5
+2019f2: 123,5
+2020f1: 125,8
+2020f2: 141,8
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Ci�ncias do Mar
+9041
+[Lic-1� cic]
+2019f1: �
+2019f2: 125,1
+2020f1: �
+2020f2: �
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Inform�tica
+9185
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 128,5
+2020f2: 109,3
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Inform�tica - Redes e Multim�dia
+9384
+[Lic-1� cic]
+2019f1: 124,2
+2019f2: 109,9
+2020f1: �
+2020f2: �
+None
+
+Universidade dos A�ores - Faculdade de Ci�ncias e Tecnologia
+0160
+Prote��o Civil e Gest�o de Riscos
+8524
+[Lic-1� cic]
+2019f1: 112,0
+2019f2: 105,8
+2020f1: 111,9
+2020f2: 124,2
+None
+
+Universidade dos A�ores - Faculdade de Economia e Gest�o
+0170
+Economia
+9081
+[Lic-1� cic]
+2019f1: 152,2
+2019f2: 112,6
+2020f1: 122,7
+2020f2: 126,4
+None
+
+Universidade dos A�ores - Faculdade de Economia e Gest�o
+0170
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 120,7
+2019f2: 125,4
+2020f1: 133,2
+2020f2: 132,6
+None
+
+Universidade dos A�ores - Faculdade de Economia e Gest�o
+0170
+Turismo
+9254
+[Lic-1� cic]
+2019f1: 129,0
+2019f2: �
+2020f1: 131,7
+2020f2: 142,6
+None
+
+Universidade do Algarve
+0200
+Ci�ncias Biom�dicas
+9351
+[Lic-1� cic]
+2019f1: 108,6
+2019f2: 127,2
+2020f1: 121,4
+2020f2: 120,2
+1.5
+
+Universidade do Algarve - Faculdade de Ci�ncias Humanas e Sociais
+0201
+Artes Visuais
+9817
+[Lic-1� cic]
+2019f1: 112,0
+2019f2: 110,0
+2020f1: 115,0
+2020f2: 111,6
+4.5
+
+Universidade do Algarve - Faculdade de Ci�ncias Humanas e Sociais
+0201
+Ci�ncias da Educa��o e da Forma��o
+9821
+[Lic-1� cic]
+2019f1: 107,2
+2019f2: 125,2
+2020f1: 123,5
+2020f2: 132,4
+7
+
+Universidade do Algarve - Faculdade de Ci�ncias Humanas e Sociais
+0201
+L�nguas e Comunica��o
+9834
+[Lic-1� cic]
+2019f1: 104,8
+2019f2: 123,4
+2020f1: 113,3
+2020f2: 129,8
+1
+
+Universidade do Algarve - Faculdade de Ci�ncias Humanas e Sociais
+0201
+L�nguas, Literaturas e Culturas
+9204
+[Lic-1� cic]
+2019f1: 105,5
+2019f2: 119,9
+2020f1: 105,0
+2020f2: 124,9
+2.5
+
+Universidade do Algarve - Faculdade de Ci�ncias Humanas e Sociais
+0201
+Patrim�nio Cultural e Arqueologia
+8509
+[Lic-1� cic]
+2019f1: 102,0
+2019f2: 140,8
+2020f1: 106,1
+2020f2: 104,5
+6.1
+
+Universidade do Algarve - Faculdade de Ci�ncias Humanas e Sociais
+0201
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 139,7
+2019f2: 139,3
+2020f1: 150,6
+2020f2: 151,9
+2.4
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Agronomia
+9003
+[Lic-1� cic]
+2019f1: 141,4
+2019f2: 102,0
+2020f1: 118,9
+2020f2: 108,2
+6.6
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Arquitetura Paisagista
+8258
+[Lic-1� cic]
+2019f1: 110,2
+2019f2: 116,0
+2020f1: 114,9
+2020f2: 118,3
+4
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Bioengenharia
+9540
+[Lic-1� cic]
+2019f1: 136,1
+2019f2: 116,4
+2020f1: 119,6
+2020f2: 122,9
+None
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 102,2
+2019f2: 113,0
+2020f1: 119,8
+2020f2: 113,4
+2.7
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Biologia Marinha
+9013
+[Lic-1� cic]
+2019f1: 108,0
+2019f2: 118,4
+2020f1: 132,7
+2020f2: 123,2
+2.4
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 113,0
+2019f2: 113,1
+2020f1: 116,9
+2020f2: 112,7
+3.2
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Biotecnologia
+9016
+[Lic-1� cic]
+2019f1: 112,6
+2019f2: 110,4
+2020f1: 113,8
+2020f2: 110,0
+4.6
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Ci�ncias Farmac�uticas
+9494
+[Mest Integ]
+2019f1: 127,6
+2019f2: 127,1
+2020f1: 142,0
+2020f2: 146,1
+1.1
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Engenharia do Ambiente
+9508
+[Mest Integ]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 101,5
+2019f2: 121,7
+2020f1: 108,4
+2020f2: 126,4
+2.8
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Gest�o Marinha e Costeira
+L123
+[Lic-1� cic]
+2019f1: 106,0
+2019f2: 110,0
+2020f1: 113,7
+2020f2: 106,0
+None
+
+Universidade do Algarve - Faculdade de Ci�ncias e Tecnologia
+0203
+Matem�tica Aplicada � Economia e � Gest�o
+9210
+[Lic-1� cic]
+2019f1: 109,2
+2019f2: 118,2
+2020f1: 114,5
+2020f2: 112,6
+None
+
+Universidade do Algarve - Faculdade de Economia
+0204
+Economia
+9081
+[Lic-1� cic]
+2019f1: 103,0
+2019f2: 121,2
+2020f1: 125,6
+2020f2: 119,1
+8.4
+
+Universidade do Algarve - Faculdade de Economia
+0204
+Gest�o de Empresas
+9152
+[Lic-1� cic]
+2019f1: 137,0
+2019f2: 131,3
+2020f1: 137,7
+2020f2: 137,5
+4.8
+
+Universidade do Algarve - Faculdade de Economia
+0204
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 119,0
+2019f2: 128,0
+2020f1: 131,7
+2020f2: 142,4
+7.4
+
+Universidade de Aveiro
+0300
+Administra��o P�blica
+9002
+[Lic-1� cic]
+2019f1: 139,4
+2019f2: 138,6
+2020f1: 142,4
+2020f2: 145,6
+8.8
+
+Universidade de Aveiro
+0300
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 129,0
+2019f2: 132,0
+2020f1: 148,0
+2020f2: 150,0
+1
+
+Universidade de Aveiro
+0300
+Biologia e Geologia
+9012
+[Lic-1� cic]
+2019f1: 110,0
+2019f2: 106,0
+2020f1: 126,8
+2020f2: 144,8
+0
+
+Universidade de Aveiro
+0300
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 147,2
+2019f2: 136,4
+2020f1: 161,2
+2020f2: 160,6
+0.9
+
+Universidade de Aveiro
+0300
+Biotecnologia
+9016
+[Lic-1� cic]
+2019f1: 155,4
+2019f2: 139,8
+2020f1: 165,0
+2020f2: 156,4
+0.9
+
+Universidade de Aveiro
+0300
+Ci�ncias Biom�dicas
+9351
+[Lic-1� cic]
+2019f1: 159,3
+2019f2: 158,3
+2020f1: 166,0
+2020f2: 175,0
+0.8
+
+Universidade de Aveiro
+0300
+Ci�ncias do Mar
+9041
+[Lic-1� cic]
+2019f1: 115,0
+2019f2: 122,5
+2020f1: 127,5
+2020f2: 131,5
+1.8
+
+Universidade de Aveiro
+0300
+Design
+9069
+[Lic-1� cic]
+2019f1: 157,4
+2019f2: 171,2
+2020f1: 169,8
+2020f2: 170,8
+4.7
+
+Universidade de Aveiro
+0300
+Economia
+9081
+[Lic-1� cic]
+2019f1: 159,2
+2019f2: 158,8
+2020f1: 167,6
+2020f2: 171,8
+5.2
+
+Universidade de Aveiro
+0300
+Educa��o B�sica
+9853
+[Lic-1� cic]
+2019f1: 125,8
+2019f2: 127,3
+2020f1: 133,0
+2020f2: 135,3
+1.3
+
+Universidade de Aveiro
+0300
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Aveiro
+0300
+Engenharia Biom�dica
+9455
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Aveiro
+0300
+Engenharia Civil
+9360
+[Mest Integ]
+2019f1: 122,6
+2019f2: 131,2
+2020f1: 107,6
+2020f2: 132,8
+4.1
+
+Universidade de Aveiro
+0300
+Engenharia Computacional
+G009
+[Mest Integ]
+2019f1: 113,0
+2019f2: 139,0
+2020f1: 127,3
+2020f2: 140,8
+None
+
+Universidade de Aveiro
+0300
+Engenharia de Computadores e Telem�tica
+9361
+[Mest Integ]
+2019f1: 139,0
+2019f2: 150,0
+2020f1: 149,0
+2020f2: 165,5
+1.5
+
+Universidade de Aveiro
+0300
+Engenharia Eletr�nica e Telecomunica��es
+9365
+[Mest Integ]
+2019f1: 110,3
+2019f2: 134,5
+2020f1: 118,8
+2020f2: 150,3
+0.6
+
+Universidade de Aveiro
+0300
+Engenharia F�sica
+9368
+[Mest Integ]
+2019f1: 146,0
+2019f2: 157,0
+2020f1: 161,0
+2020f2: 168,8
+1.3
+
+Universidade de Aveiro
+0300
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Aveiro
+0300
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 162,5
+2019f2: 175,5
+2020f1: 177,5
+2020f2: 185,5
+1.7
+
+Universidade de Aveiro
+0300
+Engenharia de Materiais
+9363
+[Mest Integ]
+2019f1: 139,0
+2019f2: 146,8
+2020f1: 125,6
+2020f2: 125,0
+2.5
+
+Universidade de Aveiro
+0300
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Aveiro
+0300
+Engenharia Qu�mica
+9125
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Aveiro
+0300
+F�sica
+9141
+[Lic-1� cic]
+2019f1: 126,5
+2019f2: 140,0
+2020f1: 143,8
+2020f2: 131,8
+None
+
+Universidade de Aveiro
+0300
+Geologia
+9146
+[Lic-1� cic]
+2019f1: 101,6
+2019f2: 114,6
+2020f1: 103,0
+2020f2: 130,0
+None
+
+Universidade de Aveiro
+0300
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 165,2
+2019f2: 171,6
+2020f1: 171,8
+2020f2: 173,6
+5.2
+
+Universidade de Aveiro
+0300
+Gest�o e Planeamento em Turismo
+L187
+[Lic-1� cic]
+2019f1: 139,8
+2019f2: 137,6
+2020f1: 139,4
+2020f2: 140,0
+None
+
+Universidade de Aveiro
+0300
+L�nguas e Estudos Editoriais
+9194
+[Lic-1� cic]
+2019f1: 142,2
+2019f2: 141,4
+2020f1: 150,8
+2020f2: 164,6
+3.2
+
+Universidade de Aveiro
+0300
+L�nguas e Rela��es Empresariais
+9196
+[Lic-1� cic]
+2019f1: 150,2
+2019f2: 152,0
+2020f1: 155,8
+2020f2: 158,0
+4.3
+
+Universidade de Aveiro
+0300
+L�nguas, Literaturas e Culturas
+9204
+[Lic-1� cic]
+2019f1: 136,2
+2019f2: 146,0
+2020f1: 142,6
+2020f2: 148,6
+5.2
+
+Universidade de Aveiro
+0300
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: 141,2
+2019f2: 142,0
+2020f1: 145,2
+2020f2: 138,8
+2
+
+Universidade de Aveiro
+0300
+Meteorologia, Oceanografia e Geof�sica
+9212
+[Lic-1� cic]
+2019f1: 108,0
+2019f2: 124,0
+2020f1: 110,0
+2020f2: 118,5
+None
+
+Universidade de Aveiro
+0300
+M�sica
+9214
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+0
+
+Universidade de Aveiro
+0300
+Novas Tecnologias da Comunica��o
+9215
+[Lic-1� cic]
+2019f1: 137,0
+2019f2: 141,6
+2020f1: 146,4
+2020f2: 149,0
+6.3
+
+Universidade de Aveiro
+0300
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 142,5
+2019f2: 147,0
+2020f1: 158,0
+2020f2: 168,0
+1.2
+
+Universidade de Aveiro
+0300
+Qu�mica
+9223
+[Lic-1� cic]
+2019f1: 139,2
+2019f2: 131,2
+2020f1: 139,6
+2020f2: 125,2
+1.4
+
+Universidade de Aveiro
+0300
+Tradu��o
+9252
+[Lic-1� cic]
+2019f1: 136,8
+2019f2: 152,8
+2020f1: 142,6
+2020f2: 150,8
+3.8
+
+Universidade da Beira Interior
+0400
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 103,0
+2019f2: 104,9
+2020f1: 143,8
+2020f2: 144,2
+10.1
+
+Universidade da Beira Interior
+0400
+Bioengenharia
+9540
+[Lic-1� cic]
+2019f1: 121,5
+2019f2: 111,7
+2020f1: �
+2020f2: �
+3.1
+
+Universidade da Beira Interior
+0400
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 116,5
+2019f2: 105,0
+2020f1: 122,3
+2020f2: 121,3
+4.3
+
+Universidade da Beira Interior
+0400
+Biotecnologia
+9016
+[Lic-1� cic]
+2019f1: 105,0
+2019f2: 108,0
+2020f1: 108,0
+2020f2: 124,1
+2.3
+
+Universidade da Beira Interior
+0400
+Ci�ncia Pol�tica e Rela��es Internacionais
+9020
+[Lic-1� cic]
+2019f1: 148,0
+2019f2: 151,0
+2020f1: 159,2
+2020f2: 143,7
+5.7
+
+Universidade da Beira Interior
+0400
+Ci�ncias Biom�dicas
+9351
+[Lic-1� cic]
+2019f1: 131,9
+2019f2: 121,0
+2020f1: 145,9
+2020f2: 144,5
+0.3
+
+Universidade da Beira Interior
+0400
+Ci�ncias da Comunica��o
+9023
+[Lic-1� cic]
+2019f1: 136,8
+2019f2: 132,6
+2020f1: 143,4
+2020f2: 139,2
+5.6
+
+Universidade da Beira Interior
+0400
+Ci�ncias da Cultura
+9025
+[Lic-1� cic]
+2019f1: 104,1
+2019f2: 120,8
+2020f1: 123,9
+2020f2: 133,9
+14.7
+
+Universidade da Beira Interior
+0400
+Ci�ncias do Desporto
+9707
+[Lic-1� cic]
+2019f1: 126,6
+2019f2: 129,3
+2020f1: 137,7
+2020f2: 137,4
+3.2
+
+Universidade da Beira Interior
+0400
+Ci�ncias Farmac�uticas
+9494
+[Mest Integ]
+2019f1: 141,0
+2019f2: 138,4
+2020f1: 153,5
+2020f2: 161,2
+1.2
+
+Universidade da Beira Interior
+0400
+Cinema
+9048
+[Lic-1� cic]
+2019f1: 130,6
+2019f2: 129,2
+2020f1: 141,5
+2020f2: 139,9
+6.2
+
+Universidade da Beira Interior
+0400
+Design Industrial
+9074
+[Lic-1� cic]
+2019f1: 111,0
+2019f2: 127,8
+2020f1: 117,4
+2020f2: 137,4
+6.1
+
+Universidade da Beira Interior
+0400
+Design de Moda
+9071
+[Lic-1� cic]
+2019f1: 125,7
+2019f2: 139,1
+2020f1: 141,5
+2020f2: 136,9
+6.7
+
+Universidade da Beira Interior
+0400
+Design Multim�dia
+9075
+[Lic-1� cic]
+2019f1: 125,2
+2019f2: 125,0
+2020f1: 140,8
+2020f2: 133,7
+7.4
+
+Universidade da Beira Interior
+0400
+Economia
+9081
+[Lic-1� cic]
+2019f1: 134,0
+2019f2: 128,2
+2020f1: 140,0
+2020f2: 145,9
+5.6
+
+Universidade da Beira Interior
+0400
+Engenharia Aeron�utica
+8470
+[Mest Integ]
+2019f1: 165,6
+2019f2: 164,5
+2020f1: 172,4
+2020f2: 165,9
+2.5
+
+Universidade da Beira Interior
+0400
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 158,6
+2020f2: 119,2
+None
+
+Universidade da Beira Interior
+0400
+Engenharia Civil
+9360
+[Mest Integ]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+0.5
+
+Universidade da Beira Interior
+0400
+Engenharia Eletromec�nica
+9105
+[Lic-1� cic]
+2019f1: 120,5
+2019f2: 122,9
+2020f1: 112,5
+2020f2: 114,3
+1.3
+
+Universidade da Beira Interior
+0400
+Engenharia Eletrot�cnica e de Computadores
+9112
+[Lic-1� cic]
+2019f1: 124,1
+2019f2: 113,8
+2020f1: 137,1
+2020f2: 119,5
+4.6
+
+Universidade da Beira Interior
+0400
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 129,2
+2019f2: 134,1
+2020f1: 136,8
+2020f2: 125,7
+None
+
+Universidade da Beira Interior
+0400
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 125,2
+2019f2: 139,5
+2020f1: 136,6
+2020f2: 148,5
+2.2
+
+Universidade da Beira Interior
+0400
+Engenharia Mec�nica
+9369
+[Mest Integ]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade da Beira Interior
+0400
+Estudos Portugueses e Espanh�is
+9918
+[Lic-1� cic]
+2019f1: None,0
+2019f2: 112,8
+2020f1: 107,0
+2020f2: 131,3
+4.8
+
+Universidade da Beira Interior
+0400
+F�sica e Aplica��es
+L205
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 127,7
+2020f2: �
+None
+
+Universidade da Beira Interior
+0400
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 145,9
+2019f2: 140,8
+2020f1: 152,0
+2020f2: 153,6
+5.1
+
+Universidade da Beira Interior
+0400
+Inform�tica Web
+L042
+[Lic-1� cic]
+2019f1: 112,2
+2019f2: 112,4
+2020f1: 114,3
+2020f2: 140,0
+None
+
+Universidade da Beira Interior
+0400
+Marketing
+9205
+[Lic-1� cic]
+2019f1: 118,6
+2019f2: 120,9
+2020f1: 128,8
+2020f2: 130,8
+9.8
+
+Universidade da Beira Interior
+0400
+Matem�tica e Aplica��es
+9835
+[Lic-1� cic]
+2019f1: 110,6
+2019f2: 106,5
+2020f1: 115,5
+2020f2: 117,0
+None
+
+Universidade da Beira Interior
+0400
+Medicina
+9813
+[Mest Integ]
+2019f1: 175,3
+2019f2: 184,2
+2020f1: 183,2
+2020f2: 190,0
+0
+
+Universidade da Beira Interior
+0400
+Optometria e Ci�ncias da Vis�o
+8184
+[Lic-1� cic]
+2019f1: None,3
+2019f2: 108,1
+2020f1: 121,4
+2020f2: 128,0
+1.4
+
+Universidade da Beira Interior
+0400
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 146,4
+2019f2: 149,2
+2020f1: 153,2
+2020f2: 155,0
+1.3
+
+Universidade da Beira Interior
+0400
+Qu�mica Industrial
+9225
+[Lic-1� cic]
+2019f1: 114,7
+2019f2: 120,2
+2020f1: 110,3
+2020f2: 106,0
+None
+
+Universidade da Beira Interior
+0400
+Qu�mica Medicinal
+8408
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade da Beira Interior
+0400
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 123,6
+2019f2: 132,6
+2020f1: 135,3
+2020f2: 142,2
+10.7
+
+Universidade de Coimbra - Faculdade de Ci�ncias do Desporto e Educa��o F�sica
+0508
+Ci�ncias do Desporto
+9707
+[Lic-1� cic]
+2019f1: 132,2
+2019f2: 140,2
+2020f1: 144,2
+2020f2: 144,6
+2.6
+
+Universidade de Coimbra - Faculdade de Ci�ncias do Desporto e Educa��o F�sica
+0508
+Ci�ncias do Desporto (regime p�s-laboral)
+8368
+[Lic-1� cic]
+2019f1: 122,1
+2019f2: 128,7
+2020f1: �
+2020f2: �
+2.6
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Antropologia
+9448
+[Lic-1� cic]
+2019f1: 109,5
+2019f2: 120,0
+2020f1: 122,0
+2020f2: 130,0
+7.1
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 135,8
+2019f2: 157,5
+2020f1: 153,5
+2020f2: 152,3
+9.6
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 113,5
+2019f2: 129,5
+2020f1: 143,0
+2020f2: 147,5
+2.4
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 139,3
+2019f2: 139,5
+2020f1: 153,5
+2020f2: 154,3
+2.6
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Design e Multim�dia
+9891
+[Lic-1� cic]
+2019f1: 145,0
+2019f2: 156,5
+2020f1: 159,0
+2020f2: 157,5
+5.4
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia do Ambiente
+9508
+[Mest Integ]
+2019f1: 104,3
+2019f2: 114,0
+2020f1: 113,3
+2020f2: 112,8
+6.7
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia Biom�dica
+9359
+[Mest Integ]
+2019f1: 164,8
+2019f2: 175,3
+2020f1: 175,3
+2020f2: 177,0
+3
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia e Ci�ncia de Dados
+L192
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 110,0
+2020f2: 113,8
+None
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia Eletrot�cnica e de Computadores
+9367
+[Mest Integ]
+2019f1: 120,5
+2019f2: 130,8
+2020f1: 119,5
+2020f2: 142,0
+1.1
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia F�sica
+9113
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 144,5
+2019f2: 165,8
+2020f1: 158,3
+2020f2: 159,5
+1.8
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 146,5
+2019f2: 156,0
+2020f1: 162,0
+2020f2: 176,5
+0.7
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Engenharia Qu�mica
+9125
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+F�sica
+9141
+[Lic-1� cic]
+2019f1: 129,3
+2019f2: 160,3
+2020f1: 163,8
+2020f2: 135,3
+0
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Geologia
+9146
+[Lic-1� cic]
+2019f1: 107,0
+2019f2: 106,0
+2020f1: None,5
+2020f2: 113,5
+1.2
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: 139,0
+2019f2: 144,0
+2020f1: 146,5
+2020f2: 129,0
+0.7
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Qu�mica
+9223
+[Lic-1� cic]
+2019f1: 113,8
+2019f2: 118,8
+2020f1: 115,3
+2020f2: 106,0
+3.2
+
+Universidade de Coimbra - Faculdade de Ci�ncias e Tecnologia
+0501
+Qu�mica Medicinal
+8408
+[Lic-1� cic]
+2019f1: 123,5
+2019f2: 122,5
+2020f1: 118,5
+2020f2: 120,8
+0
+
+Universidade de Coimbra - Faculdade de Direito
+0502
+Administra��o P�blico-Privada
+8067
+[Lic-1� cic]
+2019f1: 153,0
+2019f2: 154,5
+2020f1: 159,0
+2020f2: 159,5
+8.1
+
+Universidade de Coimbra - Faculdade de Direito
+0502
+Direito
+9078
+[Lic-1� cic]
+2019f1: 160,5
+2019f2: 159,0
+2020f1: 170,0
+2020f2: 169,5
+3.7
+
+Universidade de Coimbra - Faculdade de Direito
+0502
+Direito Luso-Brasileiro
+L199
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Economia
+0503
+Economia
+9081
+[Lic-1� cic]
+2019f1: 145,0
+2019f2: 148,5
+2020f1: 158,0
+2020f2: 167,0
+3.4
+
+Universidade de Coimbra - Faculdade de Economia
+0503
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 159,5
+2019f2: 158,5
+2020f1: 169,0
+2020f2: 172,5
+4.2
+
+Universidade de Coimbra - Faculdade de Economia
+0503
+Rela��es Internacionais
+9229
+[Lic-1� cic]
+2019f1: 168,5
+2019f2: 171,0
+2020f1: 177,0
+2020f2: 175,5
+2.5
+
+Universidade de Coimbra - Faculdade de Economia
+0503
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 138,0
+2019f2: 140,5
+2020f1: 143,0
+2020f2: 148,0
+8.2
+
+Universidade de Coimbra - Faculdade de Farm�cia
+0504
+Ci�ncias Bioanal�ticas
+9819
+[Lic-1� cic]
+2019f1: 108,0
+2019f2: 129,0
+2020f1: 135,0
+2020f2: 135,8
+0
+
+Universidade de Coimbra - Faculdade de Farm�cia
+0504
+Ci�ncias Farmac�uticas
+9494
+[Mest Integ]
+2019f1: 142,3
+2019f2: 147,0
+2020f1: 155,8
+2020f2: 175,0
+1.8
+
+Universidade de Coimbra - Faculdade de Farm�cia
+0504
+Farm�cia Biom�dica
+9832
+[Lic-1� cic]
+2019f1: 116,3
+2019f2: 119,5
+2020f1: 132,2
+2020f2: 134,4
+0.5
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Arqueologia
+9006
+[Lic-1� cic]
+2019f1: 118,0
+2019f2: 126,0
+2020f1: 133,0
+2020f2: 141,0
+5.7
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Ci�ncia da Informa��o
+9694
+[Lic-1� cic]
+2019f1: 128,4
+2019f2: 132,4
+2020f1: 135,4
+2020f2: 144,4
+5.8
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Estudos Art�sticos
+9132
+[Lic-1� cic]
+2019f1: 136,5
+2019f2: 139,5
+2020f1: 140,5
+2020f2: 143,5
+2.7
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Estudos Cl�ssicos
+9133
+[Lic-1� cic]
+2019f1: 116,0
+2019f2: 122,5
+2020f1: 131,5
+2020f2: 140,5
+None
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Estudos Europeus
+9135
+[Lic-1� cic]
+2019f1: 149,0
+2019f2: 151,5
+2020f1: 157,5
+2020f2: 156,0
+6.1
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Filosofia
+9139
+[Lic-1� cic]
+2019f1: 129,5
+2019f2: 119,0
+2020f1: 133,5
+2020f2: 133,5
+4.5
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Geografia
+9143
+[Lic-1� cic]
+2019f1: 125,0
+2019f2: 135,0
+2020f1: 125,5
+2020f2: 136,0
+2.6
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Hist�ria
+9181
+[Lic-1� cic]
+2019f1: 138,0
+2019f2: 132,0
+2020f1: 154,0
+2020f2: 153,5
+3.3
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Hist�ria da Arte
+9182
+[Lic-1� cic]
+2019f1: 120,0
+2019f2: 127,5
+2020f1: 137,0
+2020f2: 156,5
+6.8
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Jornalismo e Comunica��o
+9773
+[Lic-1� cic]
+2019f1: 153,5
+2019f2: 143,5
+2020f1: 161,0
+2020f2: 160,5
+3.5
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+L�nguas Modernas
+9779
+[Lic-1� cic]
+2019f1: 138,5
+2019f2: 165,0
+2020f1: 153,5
+2020f2: 155,0
+2.4
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Portugu�s
+8393
+[Lic-1� cic]
+2019f1: 108,5
+2019f2: 125,5
+2020f1: 125,5
+2020f2: 138,5
+0
+
+Universidade de Coimbra - Faculdade de Letras
+0505
+Turismo, Territ�rio e Patrim�nios
+L109
+[Lic-1� cic]
+2019f1: 141,0
+2019f2: 143,0
+2020f1: 142,5
+2020f2: 148,0
+4.1
+
+Universidade de Coimbra - Faculdade de Medicina
+0506
+Medicina
+9813
+[Mest Integ]
+2019f1: 179,7
+2019f2: 189,2
+2020f1: 185,8
+2020f2: �
+0
+
+Universidade de Coimbra - Faculdade de Medicina
+0506
+Medicina Dent�ria
+9548
+[Mest Integ]
+2019f1: 173,8
+2019f2: 181,5
+2020f1: 182,5
+2020f2: 185,5
+2.5
+
+Universidade de Coimbra - Faculdade de Psicologia e de Ci�ncias da Educa��o
+0507
+Ci�ncias da Educa��o
+9026
+[Lic-1� cic]
+2019f1: 128,0
+2019f2: 132,0
+2020f1: 139,5
+2020f2: 152,0
+4
+
+Universidade de Coimbra - Faculdade de Psicologia e de Ci�ncias da Educa��o
+0507
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Coimbra - Faculdade de Psicologia e de Ci�ncias da Educa��o
+0507
+Servi�o Social
+9238
+[Lic-1� cic]
+2019f1: 143,0
+2019f2: 138,5
+2020f1: 150,0
+2020f2: 156,0
+10
+
+Universidade de �vora - Escola de Artes
+0603
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 115,4
+2019f2: 108,4
+2020f1: 135,7
+2020f2: 141,6
+10.7
+
+Universidade de �vora - Escola de Artes
+0603
+Artes Pl�sticas e Multim�dia
+9347
+[Lic-1� cic]
+2019f1: 120,9
+2019f2: 102,9
+2020f1: 122,7
+2020f2: 117,6
+9.6
+
+Universidade de �vora - Escola de Artes
+0603
+Design
+9069
+[Lic-1� cic]
+2019f1: 133,4
+2019f2: 132,8
+2020f1: 147,9
+2020f2: 148,8
+6.2
+
+Universidade de �vora - Escola de Artes
+0603
+M�sica
+9214
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+1.8
+
+Universidade de �vora - Escola de Artes
+0603
+Teatro
+9243
+[Lic-1� cic]
+2019f1: 131,2
+2019f2: 124,2
+2020f1: 125,3
+2020f2: 135,8
+4.4
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Ci�ncias da Educa��o
+9026
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+7.1
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Economia
+9081
+[Lic-1� cic]
+2019f1: 108,1
+2019f2: 121,7
+2020f1: 132,9
+2020f2: 133,9
+5.5
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Educa��o B�sica
+9853
+[Lic-1� cic]
+2019f1: 117,2
+2019f2: 114,8
+2020f1: 114,9
+2020f2: 120,4
+1.4
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 137,8
+2019f2: 134,6
+2020f1: 146,4
+2020f2: 145,0
+3.7
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Hist�ria e Arqueologia
+8251
+[Lic-1� cic]
+2019f1: 120,9
+2019f2: 127,4
+2020f1: 124,4
+2020f2: 135,4
+6.5
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+L�nguas e Literaturas
+L047
+[Lic-1� cic]
+2019f1: 98,6
+2019f2: 124,9
+2020f1: 120,6
+2020f2: 137,3
+6.5
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Patrim�nio Cultural
+9787
+[Lic-1� cic]
+2019f1: 107,0
+2019f2: 118,1
+2020f1: 110,4
+2020f2: 127,2
+None
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 145,8
+2019f2: 146,0
+2020f1: 153,7
+2020f2: 153,8
+2.3
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Rela��es Internacionais
+9229
+[Lic-1� cic]
+2019f1: 144,0
+2019f2: 139,4
+2020f1: 148,8
+2020f2: 148,1
+5.8
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 124,5
+2019f2: 125,2
+2020f1: 128,8
+2020f2: 140,5
+8.4
+
+Universidade de �vora - Escola de Ci�ncias Sociais
+0604
+Turismo
+9254
+[Lic-1� cic]
+2019f1: 130,6
+2019f2: 131,5
+2020f1: 129,5
+2020f2: 134,4
+3.7
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Agronomia
+9003
+[Lic-1� cic]
+2019f1: 102,0
+2019f2: 101,0
+2020f1: 130,8
+2020f2: 121,7
+3.3
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Arquitetura Paisagista
+8258
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+5.3
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 110,1
+2019f2: 110,3
+2020f1: 134,2
+2020f2: 125,7
+2.5
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Biologia Humana
+8262
+[Lic-1� cic]
+2019f1: 113,0
+2019f2: 95,0
+2020f1: 131,6
+2020f2: 125,6
+1
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 112,4
+2019f2: 116,8
+2020f1: 125,1
+2020f2: 113,6
+1
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Biotecnologia
+9016
+[Lic-1� cic]
+2019f1: 106,2
+2019f2: 110,0
+2020f1: 120,7
+2020f2: 102,0
+6.9
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Ci�ncia e Tecnologia Animal
+9818
+[Lic-1� cic]
+2019f1: 102,2
+2019f2: 96,0
+2020f1: 133,4
+2020f2: 115,2
+4
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Ci�ncias do Desporto
+9707
+[Lic-1� cic]
+2019f1: 127,9
+2019f2: 127,7
+2020f1: 137,1
+2020f2: 138,0
+3.5
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Ecologia e Ambiente
+L090
+[Lic-1� cic]
+2019f1: 105,4
+2019f2: 96,0
+2020f1: 120,2
+2020f2: 96,0
+None
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Engenharia de Energias Renov�veis
+9910
+[Lic-1� cic]
+2019f1: 122,6
+2019f2: 111,7
+2020f1: 126,1
+2020f2: 138,1
+3
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 140,4
+2020f2: 146,8
+None
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 119,3
+2019f2: 134,7
+2020f1: 133,9
+2020f2: 143,6
+3
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Engenharia Mecatr�nica
+9751
+[Lic-1� cic]
+2019f1: 120,5
+2019f2: 119,6
+2020f1: 107,9
+2020f2: 119,7
+3.2
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Enologia
+9752
+[Lic-1� cic]
+2019f1: 114,0
+2019f2: 113,2
+2020f1: 127,9
+2020f2: 116,5
+None
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Geografia
+9143
+[Lic-1� cic]
+2019f1: 113,2
+2019f2: 123,3
+2020f1: 116,8
+2020f2: 142,3
+None
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Geologia
+9146
+[Lic-1� cic]
+2019f1: 118,6
+2019f2: 128,5
+2020f1: �
+2020f2: �
+None
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Matem�tica Aplicada � Economia e � Gest�o
+9210
+[Lic-1� cic]
+2019f1: 111,6
+2019f2: 107,3
+2020f1: 113,9
+2020f2: 126,0
+None
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Medicina Veterin�ria
+9847
+[Mest Integ]
+2019f1: 154,9
+2019f2: 157,4
+2020f1: 165,8
+2020f2: 168,0
+2.6
+
+Universidade de �vora - Escola de Ci�ncias e Tecnologia
+0602
+Reabilita��o Psicomotora
+9841
+[Lic-1� cic]
+2019f1: 113,6
+2019f2: 97,0
+2020f1: 135,6
+2020f2: 138,5
+4.6
+
+Universidade de Lisboa - Faculdade de Arquitetura
+1501
+Arquitectura, �rea de especializ. em Interiores e Reabilita��o do Edificado
+G008
+[Mest Integ]
+2019f1: 111,3
+2019f2: 134,3
+2020f1: 160,0
+2020f2: 174,5
+2.5
+
+Universidade de Lisboa - Faculdade de Arquitetura
+1501
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 107,0
+2019f2: 127,5
+2020f1: 153,5
+2020f2: 165,5
+7.7
+
+Universidade de Lisboa - Faculdade de Arquitetura
+1501
+Design
+9069
+[Lic-1� cic]
+2019f1: 160,0
+2019f2: 166,0
+2020f1: 170,5
+2020f2: 175,0
+4.7
+
+Universidade de Lisboa - Faculdade de Arquitetura
+1501
+Design de Moda
+9071
+[Lic-1� cic]
+2019f1: 153,0
+2019f2: 158,0
+2020f1: 166,5
+2020f2: 168,5
+3.7
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Arte Multim�dia
+9904
+[Lic-1� cic]
+2019f1: 167,0
+2019f2: �
+2020f1: 174,0
+2020f2: 181,5
+2.7
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Ci�ncias da Arte e do Patrim�nio
+L010
+[Lic-1� cic]
+2019f1: 147,5
+2019f2: 157,5
+2020f1: 153,5
+2020f2: 169,0
+5.1
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Ci�ncias da Arte e do Patrim�nio (regime p�s-laboral)
+9903
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Desenho
+8399
+[Lic-1� cic]
+2019f1: 170,5
+2019f2: 184,0
+2020f1: 175,0
+2020f2: �
+0.9
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Desenho (regime p�s-laboral)
+8415
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Design de Comunica��o
+9070
+[Lic-1� cic]
+2019f1: 173,5
+2019f2: 180,0
+2020f1: 178,0
+2020f2: 177,5
+2.4
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Design de Equipamento
+9072
+[Lic-1� cic]
+2019f1: 152,0
+2019f2: 159,5
+2020f1: 163,5
+2020f2: 171,0
+2.6
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Escultura
+9754
+[Lic-1� cic]
+2019f1: 142,0
+2019f2: 157,0
+2020f1: 158,0
+2020f2: 164,5
+1.1
+
+Universidade de Lisboa - Faculdade de Belas-Artes
+1502
+Pintura
+9790
+[Lic-1� cic]
+2019f1: 163,0
+2019f2: 174,5
+2020f1: 171,0
+2020f2: 177,5
+2
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 147,5
+2019f2: 151,3
+2020f1: 160,8
+2020f2: 161,0
+1.5
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 148,3
+2019f2: 145,5
+2020f1: 160,5
+2020f2: 163,5
+0.2
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia Biom�dica e Biof�sica
+9845
+[Mest Integ]
+2019f1: 166,0
+2019f2: 175,0
+2020f1: 173,8
+2020f2: 182,3
+1.3
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia Biom�dica e Biof�sica
+L204
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia da Energia e Ambiente
+L214
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia F�sica
+9113
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia F�sica
+9368
+[Mest Integ]
+2019f1: 161,3
+2019f2: 168,3
+2020f1: 167,3
+2020f2: 181,3
+None
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia Geoespacial
+L096
+[Lic-1� cic]
+2019f1: 113,0
+2019f2: 135,5
+2020f1: 123,0
+2020f2: 141,8
+2.5
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 148,5
+2019f2: 156,5
+2020f1: 161,5
+2020f2: 174,0
+0.3
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Estat�stica Aplicada
+9381
+[Lic-1� cic]
+2019f1: 140,5
+2019f2: 151,0
+2020f1: 144,3
+2020f2: 152,0
+0
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+F�sica
+9141
+[Lic-1� cic]
+2019f1: 167,0
+2019f2: 178,5
+2020f1: 169,0
+2020f2: 171,0
+2.2
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Geologia
+9146
+[Lic-1� cic]
+2019f1: 119,0
+2019f2: 122,5
+2020f1: 134,0
+2020f2: 152,5
+2.2
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: 156,8
+2019f2: 160,5
+2020f1: 158,5
+2020f2: 162,5
+0
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Matem�tica Aplicada
+9385
+[Lic-1� cic]
+2019f1: 153,3
+2019f2: 166,0
+2020f1: 160,5
+2020f2: 164,5
+1.6
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Meteorologia, Oceanografia e Geof�sica
+9212
+[Lic-1� cic]
+2019f1: 126,0
+2019f2: 146,0
+2020f1: 138,0
+2020f2: 146,5
+0.8
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Qu�mica
+9223
+[Lic-1� cic]
+2019f1: 143,3
+2019f2: 139,8
+2020f1: 145,0
+2020f2: �
+2.3
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Qu�mica Tecnol�gica
+9226
+[Lic-1� cic]
+2019f1: 134,0
+2019f2: 134,0
+2020f1: 126,8
+2020f2: 143,0
+2.3
+
+Universidade de Lisboa - Faculdade de Ci�ncias
+1503
+Tecnologias de Informa��o
+L079
+[Lic-1� cic]
+2019f1: 133,5
+2019f2: 151,0
+2020f1: 145,0
+2020f2: 161,0
+0.8
+
+Universidade de Lisboa - Faculdade de Direito
+1504
+Direito
+9078
+[Lic-1� cic]
+2019f1: 153,8
+2019f2: 153,3
+2020f1: 162,0
+2020f2: 160,3
+1.9
+
+Universidade de Lisboa - Faculdade de Direito
+1504
+Direito (regime p�s-laboral)
+8358
+[Lic-1� cic]
+2019f1: 147,5
+2019f2: 148,8
+2020f1: 155,0
+2020f2: 157,0
+1.9
+
+Universidade de Lisboa - Faculdade de Farm�cia
+1505
+Ci�ncias Farmac�uticas
+9494
+[Mest Integ]
+2019f1: 143,0
+2019f2: 146,5
+2020f1: 154,5
+2020f2: 174,0
+0.9
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Arqueologia
+9006
+[Lic-1� cic]
+2019f1: 122,0
+2019f2: 132,5
+2020f1: 134,5
+2020f2: 144,0
+2
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Artes e Humanidades
+8413
+[Lic-1� cic]
+2019f1: 134,5
+2019f2: 140,0
+2020f1: 141,0
+2020f2: 146,0
+1.8
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Ci�ncias da Linguagem
+9040
+[Lic-1� cic]
+2019f1: 129,5
+2019f2: 134,5
+2020f1: 133,5
+2020f2: 142,5
+2.7
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Africanos
+9131
+[Lic-1� cic]
+2019f1: 120,0
+2019f2: 136,0
+2020f1: 119,5
+2020f2: 141,0
+1.6
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Art�sticos, variante de Artes do Espet�culo
+8104
+[Lic-1� cic]
+2019f1: 139,5
+2019f2: 134,0
+2020f1: 145,5
+2020f2: 146,0
+3.5
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Asi�ticos
+9914
+[Lic-1� cic]
+2019f1: 150,0
+2019f2: 150,5
+2020f1: 157,0
+2020f2: 156,5
+3.7
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Cl�ssicos
+9133
+[Lic-1� cic]
+2019f1: 120,5
+2019f2: 129,0
+2020f1: 131,5
+2020f2: 142,0
+None
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Comparatistas
+L097
+[Lic-1� cic]
+2019f1: 125,0
+2019f2: 145,0
+2020f1: 137,5
+2020f2: 144,0
+2.9
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos de Cultura e Comunica��o
+L145
+[Lic-1� cic]
+2019f1: 149,0
+2019f2: 147,5
+2020f1: 154,5
+2020f2: 153,5
+2.1
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Europeus
+9135
+[Lic-1� cic]
+2019f1: 147,5
+2019f2: 146,0
+2020f1: 155,0
+2020f2: 157,0
+2.3
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Gerais
+8458
+[Lic-1� cic]
+2019f1: 143,0
+2019f2: 144,5
+2020f1: 148,5
+2020f2: 146,0
+3.1
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Estudos Portugueses
+9917
+[Lic-1� cic]
+2019f1: 119,0
+2019f2: 131,0
+2020f1: 134,0
+2020f2: �
+1.5
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Filosofia
+9139
+[Lic-1� cic]
+2019f1: 135,5
+2019f2: 138,0
+2020f1: 136,5
+2020f2: 141,5
+0.8
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Hist�ria
+9181
+[Lic-1� cic]
+2019f1: 143,0
+2019f2: 143,5
+2020f1: 158,5
+2020f2: 161,5
+2.8
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Hist�ria da Arte
+9182
+[Lic-1� cic]
+2019f1: 121,0
+2019f2: 139,0
+2020f1: 138,0
+2020f2: 149,5
+4.4
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+L�nguas, Literaturas e Culturas
+9204
+[Lic-1� cic]
+2019f1: 139,0
+2019f2: 146,0
+2020f1: 150,0
+2020f2: 157,0
+3.2
+
+Universidade de Lisboa - Faculdade de Letras
+1506
+Tradu��o
+9252
+[Lic-1� cic]
+2019f1: 137,3
+2019f2: 144,3
+2020f1: 145,3
+2020f2: 152,3
+2.7
+
+Universidade de Lisboa - Faculdade de Medicina
+1507
+Ci�ncias da Nutri��o
+9554
+[Lic-1� cic]
+2019f1: 156,3
+2019f2: 169,8
+2020f1: 168,8
+2020f2: 179,5
+None
+
+Universidade de Lisboa - Faculdade de Medicina
+1507
+Medicina
+9813
+[Mest Integ]
+2019f1: 175,8
+2019f2: �
+2020f1: 183,3
+2020f2: �
+0
+
+Universidade de Lisboa - Faculdade de Medicina Dent�ria
+1508
+Higiene Oral
+9556
+[Lic-1� cic]
+2019f1: 127,8
+2019f2: 126,8
+2020f1: 145,3
+2020f2: 149,5
+1.6
+
+Universidade de Lisboa - Faculdade de Medicina Dent�ria
+1508
+Medicina Dent�ria
+9548
+[Mest Integ]
+2019f1: 173,8
+2019f2: 181,3
+2020f1: 180,8
+2020f2: 185,8
+1.9
+
+Universidade de Lisboa - Faculdade de Medicina Dent�ria
+1508
+Pr�tese Dent�ria
+9791
+[Lic-1� cic]
+2019f1: 115,0
+2019f2: 127,8
+2020f1: 133,0
+2020f2: 139,3
+3.7
+
+Universidade de Lisboa - Faculdade de Medicina Veterin�ria
+1509
+Medicina Veterin�ria
+9847
+[Mest Integ]
+2019f1: 157,8
+2019f2: 166,3
+2020f1: 170,0
+2020f2: 175,0
+2.1
+
+Universidade de Lisboa - Faculdade de Motricidade Humana
+1510
+Ci�ncias do Desporto
+9707
+[Lic-1� cic]
+2019f1: 124,0
+2019f2: 137,0
+2020f1: 141,0
+2020f2: 150,5
+1
+
+Universidade de Lisboa - Faculdade de Motricidade Humana
+1510
+Dan�a
+9068
+[Lic-1� cic]
+2019f1: 106,0
+2019f2: 109,5
+2020f1: 107,5
+2020f2: 115,0
+1.1
+
+Universidade de Lisboa - Faculdade de Motricidade Humana
+1510
+Gest�o do Desporto
+9162
+[Lic-1� cic]
+2019f1: 147,0
+2019f2: 153,0
+2020f1: 153,5
+2020f2: 164,0
+4.6
+
+Universidade de Lisboa - Faculdade de Motricidade Humana
+1510
+Reabilita��o Psicomotora
+9841
+[Lic-1� cic]
+2019f1: 123,0
+2019f2: 123,0
+2020f1: 143,5
+2020f2: 145,5
+3.1
+
+Universidade de Lisboa - Faculdade de Psicologia
+1511
+Psicologia
+9555
+[Mest Integ]
+2019f1: 151,0
+2019f2: 150,8
+2020f1: 160,5
+2020f2: 164,3
+6.2
+
+Universidade de Lisboa - Instituto de Educa��o
+1513
+Educa��o e Forma��o
+L040
+[Lic-1� cic]
+2019f1: 122,0
+2019f2: 126,5
+2020f1: 132,0
+2020f2: 141,0
+2.2
+
+Universidade de Lisboa - Instituto de Geografia e Ordenamento do Territ�rio
+1514
+Geografia
+9143
+[Lic-1� cic]
+2019f1: 128,0
+2019f2: 136,5
+2020f1: 133,0
+2020f2: 134,5
+2.2
+
+Universidade de Lisboa - Instituto de Geografia e Ordenamento do Territ�rio
+1514
+Planeamento e Gest�o do Territ�rio
+8411
+[Lic-1� cic]
+2019f1: 132,0
+2019f2: 139,5
+2020f1: 136,5
+2020f2: 135,0
+5
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Arquitetura Paisagista
+8258
+[Lic-1� cic]
+2019f1: 123,5
+2019f2: 139,5
+2020f1: 140,0
+2020f2: 150,5
+2.3
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 137,3
+2019f2: 139,5
+2020f1: 144,8
+2020f2: 149,8
+0
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Engenharia Agron�mica
+9086
+[Lic-1� cic]
+2019f1: 124,8
+2019f2: 131,8
+2020f1: 127,3
+2020f2: 142,0
+3.1
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Engenharia Alimentar
+9087
+[Lic-1� cic]
+2019f1: 110,0
+2019f2: 118,3
+2020f1: 111,5
+2020f2: 133,0
+3.9
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 125,3
+2019f2: 128,0
+2020f1: 128,8
+2020f2: 137,5
+3.1
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Engenharia Florestal e dos Recursos Naturais
+8377
+[Lic-1� cic]
+2019f1: 115,0
+2019f2: 125,3
+2020f1: 113,0
+2020f2: 135,8
+5.2
+
+Universidade de Lisboa - Instituto Superior de Agronomia
+1515
+Engenharia Zoot�cnica
+9129
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+4.2
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Administra��o P�blica
+9002
+[Lic-1� cic]
+2019f1: 141,5
+2019f2: 144,0
+2020f1: 149,5
+2020f2: 150,5
+3.9
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Administra��o P�blica (regime p�s-laboral)
+8102
+[Lic-1� cic]
+2019f1: 129,0
+2019f2: 136,5
+2020f1: 136,5
+2020f2: 146,0
+3.9
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Administra��o P�blica e Pol�ticas do Territ�rio
+8253
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Administra��o P�blica e Pol�ticas do Territ�rio (regime p�s-laboral)
+8363
+[Lic-1� cic]
+2019f1: 120,0
+2019f2: 131,0
+2020f1: 129,0
+2020f2: 141,5
+5.6
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Antropologia
+9448
+[Lic-1� cic]
+2019f1: 120,5
+2019f2: 130,5
+2020f1: 131,5
+2020f2: 147,5
+3.6
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Ci�ncia Pol�tica
+9019
+[Lic-1� cic]
+2019f1: 152,0
+2019f2: 151,5
+2020f1: 164,5
+2020f2: 158,5
+2.8
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Ci�ncias da Comunica��o
+9023
+[Lic-1� cic]
+2019f1: 161,0
+2019f2: 171,0
+2020f1: 170,5
+2020f2: 167,5
+5.3
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Gest�o de Recursos Humanos
+9157
+[Lic-1� cic]
+2019f1: 154,0
+2019f2: 154,0
+2020f1: 161,0
+2020f2: 161,0
+2.2
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Gest�o de Recursos Humanos (regime p�s-laboral)
+8111
+[Lic-1� cic]
+2019f1: 141,0
+2019f2: 147,0
+2020f1: 147,5
+2020f2: 153,5
+2.2
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Rela��es Internacionais
+9229
+[Lic-1� cic]
+2019f1: 160,0
+2019f2: 158,5
+2020f1: 170,5
+2020f2: 169,0
+3.5
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Rela��es Internacionais (regime p�s-laboral)
+8364
+[Lic-1� cic]
+2019f1: 149,5
+2019f2: 149,0
+2020f1: 153,5
+2020f2: 156,0
+3.5
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Servi�o Social
+9238
+[Lic-1� cic]
+2019f1: 142,0
+2019f2: 141,0
+2020f1: 153,5
+2020f2: 155,5
+4.1
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Servi�o Social (regime p�s-laboral)
+8014
+[Lic-1� cic]
+2019f1: 130,5
+2019f2: 137,0
+2020f1: 135,5
+2020f2: 146,5
+4.1
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 135,0
+2019f2: 137,0
+2020f1: 146,0
+2020f2: 151,5
+5.7
+
+Universidade de Lisboa - Instituto Superior de Ci�ncias Sociais e Pol�ticas
+1516
+Sociologia (regime p�s-laboral)
+8109
+[Lic-1� cic]
+2019f1: 121,5
+2019f2: 132,0
+2020f1: 129,5
+2020f2: 143,0
+5.7
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Economia
+9081
+[Lic-1� cic]
+2019f1: 157,0
+2019f2: 158,8
+2020f1: 164,0
+2020f2: 167,5
+2.4
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Economia (ensino em Ingl�s)
+A006
+[Lic-1� cic]
+2019f1: 159,0
+2019f2: 160,5
+2020f1: 162,5
+2020f2: 165,0
+None
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Finan�as
+9140
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+2.1
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Finan�as (ensino em ingl�s)
+A013
+[Lic-1� cic]
+2019f1: 152,3
+2019f2: 158,3
+2020f1: 160,0
+2020f2: 163,5
+None
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 159,5
+2019f2: 164,0
+2020f1: 167,5
+2020f2: 172,0
+1.8
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Gest�o (ensino em Ingl�s)
+A001
+[Lic-1� cic]
+2019f1: 161,5
+2019f2: 162,8
+2020f1: 167,0
+2020f2: 168,0
+None
+
+Universidade de Lisboa - Instituto Superior de Economia e Gest�o
+1517
+Matem�tica Aplicada � Economia e � Gest�o
+9210
+[Lic-1� cic]
+2019f1: 184,0
+2019f2: 186,0
+2020f1: 187,5
+2020f2: 187,0
+0.6
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 155,0
+2019f2: 169,3
+2020f1: 170,5
+2020f2: 182,0
+0
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Aeroespacial
+9357
+[Mest Integ]
+2019f1: 189,5
+2019f2: 194,5
+2020f1: 191,3
+2020f2: 192,0
+0.5
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Biol�gica
+9474
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Biom�dica
+9359
+[Mest Integ]
+2019f1: 181,5
+2019f2: 184,8
+2020f1: 185,8
+2020f2: 187,8
+1.3
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Civil (ULisboa e SHU)
+L212
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Eletrot�cnica e de Computadores
+9367
+[Mest Integ]
+2019f1: 158,0
+2019f2: 162,0
+2020f1: 164,5
+2020f2: 167,0
+0.2
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Eletrot�cnica e de Computadores (ULisboa e SHU)
+L203
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia F�sica Tecnol�gica
+9458
+[Mest Integ]
+2019f1: 188,8
+2019f2: 194,3
+2020f1: 191,3
+2020f2: 191,3
+0
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Geol�gica e de Minas
+9913
+[Lic-1� cic]
+2019f1: 131,3
+2019f2: 144,5
+2020f1: 128,8
+2020f2: 142,5
+1.5
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Inform�tica e de Computadores
+9121
+[Lic-1� cic]
+2019f1: 172,0
+2019f2: 181,5
+2020f1: 183,5
+2020f2: 184,5
+0.7
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia de Materiais
+9363
+[Mest Integ]
+2019f1: 160,3
+2019f2: �
+2020f1: 167,3
+2020f2: 172,3
+0.8
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Naval e Oce�nica
+L162
+[Lic-1� cic]
+2019f1: 160,5
+2019f2: 166,3
+2020f1: 170,3
+2020f2: 170,0
+0
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Engenharia Qu�mica
+9125
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Lisboa - Instituto Superior T�cnico
+1518
+Matem�tica Aplicada e Computa��o
+9345
+[Lic-1� cic]
+2019f1: 183,8
+2019f2: 182,3
+2020f1: 188,3
+2020f2: 187,8
+0.8
+
+Universidade de Lisboa - Instituto Superior T�cnico (Tagus Park)
+1519
+Engenharia Eletr�nica
+9912
+[Lic-1� cic]
+2019f1: 144,0
+2019f2: 148,0
+2020f1: 156,5
+2020f2: 157,3
+0.6
+
+Universidade de Lisboa - Instituto Superior T�cnico (Tagus Park)
+1519
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 164,0
+2019f2: 170,5
+2020f1: 177,3
+2020f2: 175,8
+0.5
+
+Universidade de Lisboa - Instituto Superior T�cnico (Tagus Park)
+1519
+Engenharia Inform�tica e de Computadores
+9121
+[Lic-1� cic]
+2019f1: 163,5
+2019f2: 173,5
+2020f1: 177,0
+2020f2: 183,0
+0
+
+Universidade de Lisboa - Instituto Superior T�cnico (Tagus Park)
+1519
+Engenharia de Telecomunica��es e Inform�tica
+9098
+[Lic-1� cic]
+2019f1: 140,0
+2019f2: 147,5
+2020f1: 154,0
+2020f2: 161,0
+0
+
+Universidade da Madeira - Faculdade de Artes e Humanidades
+1306
+Artes Visuais
+9817
+[Lic-1� cic]
+2019f1: 148,6
+2019f2: 115,2
+2020f1: 135,2
+2020f2: 127,4
+None
+
+Universidade da Madeira - Faculdade de Artes e Humanidades
+1306
+Comunica��o, Cultura e Organiza��es
+9720
+[Lic-1� cic]
+2019f1: 125,3
+2019f2: 119,7
+2020f1: 129,7
+2020f2: 132,4
+None
+
+Universidade da Madeira - Faculdade de Artes e Humanidades
+1306
+Design
+9069
+[Lic-1� cic]
+2019f1: 105,0
+2019f2: 115,3
+2020f1: 120,8
+2020f2: 96,0
+None
+
+Universidade da Madeira - Faculdade de Artes e Humanidades
+1306
+Estudos de Cultura
+L150
+[Lic-1� cic]
+2019f1: 112,8
+2019f2: 115,8
+2020f1: 110,6
+2020f2: 120,6
+None
+
+Universidade da Madeira - Faculdade de Artes e Humanidades
+1306
+L�nguas e Rela��es Empresariais
+9196
+[Lic-1� cic]
+2019f1: 136,2
+2019f2: 141,5
+2020f1: 148,4
+2020f2: 147,3
+None
+
+Universidade da Madeira - Faculdade de Artes e Humanidades
+1306
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 139,9
+2019f2: �
+2020f1: 147,8
+2020f2: 148,2
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 122,5
+2019f2: 114,8
+2020f1: 123,6
+2020f2: 110,0
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: �
+2019f2: 116,8
+2020f1: 152,6
+2020f2: �
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Engenharia Civil (ensino em ingl�s)
+A010
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Engenharia de Computadores
+L208
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Engenharia Electr�nica e Telecomunica��es
+9107
+[Lic-1� cic]
+2019f1: �
+2019f2: 134,7
+2020f1: 142,9
+2020f2: 126,8
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Engenharia Eletr�nica e Telecomunica��es (ensino em ingl�s)
+A011
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 109,3
+2019f2: 118,5
+2020f1: 114,4
+2020f2: 126,2
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 148,3
+2020f2: 114,3
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Exatas e da Engenharia
+1307
+Matem�tica (ensino em ingl�s)
+A012
+[Lic-1� cic]
+2019f1: 128,2
+2019f2: 109,4
+2020f1: �
+2020f2: �
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Sociais
+1308
+Ci�ncias da Educa��o
+9026
+[Lic-1� cic]
+2019f1: 117,6
+2019f2: 126,0
+2020f1: 125,6
+2020f2: 146,7
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Sociais
+1308
+Economia
+9081
+[Lic-1� cic]
+2019f1: 113,8
+2019f2: 120,9
+2020f1: 108,0
+2020f2: 115,9
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Sociais
+1308
+Educa��o B�sica
+9853
+[Lic-1� cic]
+2019f1: 110,7
+2019f2: 111,4
+2020f1: 113,5
+2020f2: 122,9
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Sociais
+1308
+Educa��o F�sica e Desporto
+9736
+[Lic-1� cic]
+2019f1: 134,7
+2019f2: 145,7
+2020f1: 140,2
+2020f2: 140,8
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias Sociais
+1308
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 136,3
+2019f2: 137,8
+2020f1: 143,9
+2020f2: 148,1
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias da Vida
+1309
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 117,1
+2019f2: 132,7
+2020f1: 132,1
+2020f2: 127,1
+None
+
+Universidade da Madeira - Faculdade de Ci�ncias da Vida
+1309
+Ciclo B�sico de Medicina
+8083
+[Prep. MI]
+2019f1: 175,0
+2019f2: 183,3
+2020f1: 182,8
+2020f2: �
+None
+
+Universidade do Minho
+None0
+Administra��o P�blica
+9002
+[Lic-1� cic]
+2019f1: 153,4
+2019f2: 152,0
+2020f1: 154,4
+2020f2: 159,6
+8.8
+
+Universidade do Minho
+None0
+Arqueologia
+9006
+[Lic-1� cic]
+2019f1: 113,6
+2019f2: 126,6
+2020f1: 133,8
+2020f2: �
+9.5
+
+Universidade do Minho
+None0
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 158,5
+2019f2: 170,5
+2020f1: 167,8
+2020f2: 177,0
+7.9
+
+Universidade do Minho
+None0
+Artes Visuais
+9817
+[Lic-1� cic]
+2019f1: 150,0
+2019f2: 152,0
+2020f1: 158,0
+2020f2: 158,5
+None
+
+Universidade do Minho
+None0
+Biologia Aplicada
+9688
+[Lic-1� cic]
+2019f1: 128,4
+2019f2: 135,4
+2020f1: 147,4
+2020f2: 147,8
+2.3
+
+Universidade do Minho
+None0
+Biologia e Geologia
+9012
+[Lic-1� cic]
+2019f1: 113,0
+2019f2: 121,4
+2020f1: 128,2
+2020f2: 138,4
+4.2
+
+Universidade do Minho
+None0
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 145,6
+2019f2: 147,0
+2020f1: 154,4
+2020f2: 152,6
+0.9
+
+Universidade do Minho
+None0
+Ci�ncia Pol�tica
+9019
+[Lic-1� cic]
+2019f1: 153,2
+2019f2: 148,2
+2020f1: 159,4
+2020f2: 159,0
+6.3
+
+Universidade do Minho
+None0
+Ci�ncia Pol�tica (regime p�s-laboral)
+8425
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Ci�ncias do Ambiente
+9379
+[Lic-1� cic]
+2019f1: 117,0
+2019f2: 123,2
+2020f1: 130,2
+2020f2: 126,0
+4.7
+
+Universidade do Minho
+None0
+Ci�ncias do Ambiente (regime p�s-laboral)
+8426
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Ci�ncias da Computa��o
+9397
+[Lic-1� cic]
+2019f1: 136,2
+2019f2: 144,4
+2020f1: 144,8
+2020f2: 156,0
+1.3
+
+Universidade do Minho
+None0
+Ci�ncias da Comunica��o
+9023
+[Lic-1� cic]
+2019f1: 160,8
+2019f2: 159,6
+2020f1: 164,8
+2020f2: 166,0
+7.3
+
+Universidade do Minho
+None0
+Contabilidade
+9056
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Contabilidade (regime p�s-laboral)
+9869
+[Lic-1� cic]
+2019f1: 145,0
+2019f2: 145,4
+2020f1: 146,6
+2020f2: 155,6
+4.6
+
+Universidade do Minho
+None0
+Criminologia e Justi�a Criminal
+L078
+[Lic-1� cic]
+2019f1: 161,0
+2019f2: 160,2
+2020f1: 167,2
+2020f2: 168,0
+None
+
+Universidade do Minho
+None0
+Design e Marketing de Moda
+9499
+[Lic-1� cic]
+2019f1: 156,2
+2019f2: 153,2
+2020f1: 161,2
+2020f2: 160,8
+9.2
+
+Universidade do Minho
+None0
+Design de Produto
+8494
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+6.6
+
+Universidade do Minho
+None0
+Direito
+9078
+[Lic-1� cic]
+2019f1: 168,6
+2019f2: 167,0
+2020f1: 175,6
+2020f2: 175,0
+6.2
+
+Universidade do Minho
+None0
+Direito (regime p�s-laboral)
+8358
+[Lic-1� cic]
+2019f1: 165,6
+2019f2: 169,0
+2020f1: 168,0
+2020f2: 171,6
+6.2
+
+Universidade do Minho
+None0
+Economia
+9081
+[Lic-1� cic]
+2019f1: 165,0
+2019f2: 165,8
+2020f1: 171,8
+2020f2: 175,8
+3.5
+
+Universidade do Minho
+None0
+Educa��o
+9353
+[Lic-1� cic]
+2019f1: 134,2
+2019f2: 136,0
+2020f1: 141,2
+2020f2: 141,6
+7.5
+
+Universidade do Minho
+None0
+Educa��o (regime p�s-laboral)
+8427
+[Lic-1� cic]
+2019f1: 126,6
+2019f2: 141,8
+2020f1: 129,2
+2020f2: 137,0
+7.5
+
+Universidade do Minho
+None0
+Educa��o B�sica
+9853
+[Lic-1� cic]
+2019f1: 133,8
+2019f2: 157,4
+2020f1: 132,6
+2020f2: 145,6
+0.9
+
+Universidade do Minho
+None0
+Engenharia Biol�gica
+9358
+[Mest Integ]
+2019f1: 144,0
+2019f2: 139,4
+2020f1: 149,4
+2020f2: 180,0
+6
+
+Universidade do Minho
+None0
+Engenharia Biom�dica
+9359
+[Mest Integ]
+2019f1: 170,6
+2019f2: 177,6
+2020f1: 180,0
+2020f2: 188,2
+5
+
+Universidade do Minho
+None0
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Engenharia Eletr�nica Industrial e Computadores
+9366
+[Mest Integ]
+2019f1: 137,0
+2019f2: 146,8
+2020f1: 146,2
+2020f2: 148,4
+1.7
+
+Universidade do Minho
+None0
+Engenharia F�sica
+9368
+[Mest Integ]
+2019f1: 167,2
+2019f2: 170,4
+2020f1: 174,4
+2020f2: 180,8
+None
+
+Universidade do Minho
+None0
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Engenharia e Gest�o de Sistemas de Informa��o (regime p�s-laboral)
+G002
+[Mest Integ]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+5.2
+
+Universidade do Minho
+None0
+Engenharia e Gest�o de Sistemas de Informa��o
+L215
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Engenharia de Materiais
+9363
+[Mest Integ]
+2019f1: 150,0
+2019f2: 148,2
+2020f1: 154,6
+2020f2: 151,8
+3
+
+Universidade do Minho
+None0
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Engenharia de Pol�meros
+9364
+[Mest Integ]
+2019f1: 130,8
+2019f2: 139,0
+2020f1: 132,8
+2020f2: 150,8
+1
+
+Universidade do Minho
+None0
+Engenharia de Telecomunica��es e Inform�tica
+G007
+[Mest Integ]
+2019f1: 110,8
+2019f2: 136,4
+2020f1: 123,8
+2020f2: 142,8
+0
+
+Universidade do Minho
+None0
+Engenharia T�xtil
+9371
+[Mest Integ]
+2019f1: 122,6
+2019f2: 130,2
+2020f1: 127,4
+2020f2: 124,0
+None
+
+Universidade do Minho
+None0
+Engenharia T�xtil (regime p�s-laboral)
+8090
+[Mest Integ]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Estat�stica Aplicada
+9381
+[Lic-1� cic]
+2019f1: 128,8
+2019f2: 138,0
+2020f1: 134,0
+2020f2: 146,8
+3.7
+
+Universidade do Minho
+None0
+Estudos Culturais
+9134
+[Lic-1� cic]
+2019f1: 139,2
+2019f2: 144,6
+2020f1: 143,2
+2020f2: 151,2
+7.6
+
+Universidade do Minho
+None0
+Estudos Culturais (regime p�s-laboral)
+8428
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Estudos Orientais: Estudos Chineses e Japoneses
+L147
+[Lic-1� cic]
+2019f1: 151,0
+2019f2: 149,6
+2020f1: 158,8
+2020f2: 162,2
+3.3
+
+Universidade do Minho
+None0
+Estudos Portugueses
+9917
+[Lic-1� cic]
+2019f1: 115,6
+2019f2: 129,0
+2020f1: 125,6
+2020f2: 138,0
+None
+
+Universidade do Minho
+None0
+Filosofia
+9139
+[Lic-1� cic]
+2019f1: 120,2
+2019f2: 121,8
+2020f1: 126,4
+2020f2: 131,6
+8.1
+
+Universidade do Minho
+None0
+F�sica
+9141
+[Lic-1� cic]
+2019f1: 151,4
+2019f2: 163,8
+2020f1: 137,2
+2020f2: 131,4
+3.8
+
+Universidade do Minho
+None0
+Geografia e Planeamento
+8183
+[Lic-1� cic]
+2019f1: 126,6
+2019f2: 129,8
+2020f1: 135,0
+2020f2: 131,0
+4.9
+
+Universidade do Minho
+None0
+Geologia
+9146
+[Lic-1� cic]
+2019f1: 107,4
+2019f2: 117,0
+2020f1: 110,0
+2020f2: 118,4
+None
+
+Universidade do Minho
+None0
+Geologia (regime p�s-laboral)
+8432
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 170,0
+2019f2: 175,4
+2020f1: 176,4
+2020f2: 180,8
+4.3
+
+Universidade do Minho
+None0
+Hist�ria
+9181
+[Lic-1� cic]
+2019f1: 142,6
+2019f2: 140,8
+2020f1: 156,6
+2020f2: 166,0
+3.7
+
+Universidade do Minho
+None0
+L�nguas Aplicadas
+9192
+[Lic-1� cic]
+2019f1: 161,2
+2019f2: 158,8
+2020f1: 163,6
+2020f2: 165,0
+2.5
+
+Universidade do Minho
+None0
+L�nguas e Literaturas Europeias
+9195
+[Lic-1� cic]
+2019f1: 141,0
+2019f2: 151,6
+2020f1: 151,0
+2020f2: 157,0
+3.2
+
+Universidade do Minho
+None0
+L�nguas e Literaturas Europeias (regime p�s-laboral)
+8429
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+Marketing
+9205
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 159,6
+2020f2: 166,4
+None
+
+Universidade do Minho
+None0
+Marketing (regime p�s-laboral)
+8005
+[Lic-1� cic]
+2019f1: 151,6
+2019f2: 156,6
+2020f1: �
+2020f2: �
+5.7
+
+Universidade do Minho
+None0
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: 134,0
+2019f2: 142,0
+2020f1: 152,2
+2020f2: 151,2
+2.6
+
+Universidade do Minho
+None0
+Medicina
+9813
+[Mest Integ]
+2019f1: 182,2
+2019f2: �
+2020f1: 187,8
+2020f2: �
+0
+
+Universidade do Minho
+None0
+M�sica
+9214
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Minho
+None0
+M�sica (regime p�s-laboral)
+8091
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+1.8
+
+Universidade do Minho
+None0
+Neg�cios Internacionais
+9785
+[Lic-1� cic]
+2019f1: 153,6
+2019f2: 164,8
+2020f1: 164,0
+2020f2: 163,8
+None
+
+Universidade do Minho
+None0
+Neg�cios Internacionais (regime p�s-laboral)
+8433
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+0
+
+Universidade do Minho
+None0
+Optometria e Ci�ncias da Vis�o
+8184
+[Lic-1� cic]
+2019f1: 120,4
+2019f2: 125,8
+2020f1: 115,4
+2020f2: 124,2
+3.5
+
+Universidade do Minho
+None0
+Prote��o Civil e Gest�o do Territ�rio
+L112
+[Lic-1� cic]
+2019f1: 113,8
+2019f2: 115,8
+2020f1: 117,8
+2020f2: 119,2
+None
+
+Universidade do Minho
+None0
+Psicologia
+9555
+[Mest Integ]
+2019f1: 151,6
+2019f2: 152,8
+2020f1: 164,4
+2020f2: 164,4
+14.7
+
+Universidade do Minho
+None0
+Qu�mica
+9223
+[Lic-1� cic]
+2019f1: 122,4
+2019f2: 123,2
+2020f1: 132,0
+2020f2: 123,2
+4.5
+
+Universidade do Minho
+None0
+Rela��es Internacionais
+9229
+[Lic-1� cic]
+2019f1: 160,6
+2019f2: 159,8
+2020f1: 168,4
+2020f2: 167,4
+5.3
+
+Universidade do Minho
+None0
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 139,8
+2019f2: 144,4
+2020f1: 145,0
+2020f2: 150,0
+6
+
+Universidade do Minho
+None0
+Teatro
+9243
+[Lic-1� cic]
+2019f1: 116,8
+2019f2: 124,8
+2020f1: 139,0
+2020f2: 135,0
+2.5
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias M�dicas
+0901
+Ci�ncias da Nutri��o
+9554
+[Lic-1� cic]
+2019f1: 158,5
+2019f2: 162,3
+2020f1: 170,3
+2020f2: 179,3
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias M�dicas
+0901
+Medicina
+9813
+[Mest Integ]
+2019f1: 177,3
+2019f2: 193,3
+2020f1: 184,5
+2020f2: 194,2
+0
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Antropologia
+9448
+[Lic-1� cic]
+2019f1: 122,5
+2019f2: 128,5
+2020f1: 132,0
+2020f2: 151,5
+3.7
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Arqueologia
+9006
+[Lic-1� cic]
+2019f1: 128,0
+2019f2: 134,0
+2020f1: 135,5
+2020f2: 147,0
+2.5
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Ci�ncia Pol�tica e Rela��es Internacionais
+9020
+[Lic-1� cic]
+2019f1: 174,0
+2019f2: 174,5
+2020f1: 179,0
+2020f2: 177,0
+3.4
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Ci�ncias da Comunica��o
+9023
+[Lic-1� cic]
+2019f1: 172,0
+2019f2: 179,5
+2020f1: 178,5
+2020f2: 178,5
+3.9
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Ci�ncias da Linguagem
+9040
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Ci�ncias da Linguagem (regime p�s-laboral)
+8108
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Ci�ncias Musicais
+9046
+[Lic-1� cic]
+2019f1: 129,5
+2019f2: 125,0
+2020f1: 144,0
+2020f2: 135,5
+0.9
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Estudos Portugueses
+9917
+[Lic-1� cic]
+2019f1: 118,0
+2019f2: 120,5
+2020f1: 127,5
+2020f2: 145,0
+2.7
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Estudos Portugueses (p�s-laboral)
+L001
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Filosofia
+9139
+[Lic-1� cic]
+2019f1: 144,5
+2019f2: 134,5
+2020f1: 150,5
+2020f2: 139,5
+8.5
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Geografia e Planeamento Regional
+9145
+[Lic-1� cic]
+2019f1: 138,5
+2019f2: 142,0
+2020f1: 145,5
+2020f2: 143,0
+2.5
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Hist�ria
+9181
+[Lic-1� cic]
+2019f1: 154,0
+2019f2: 154,0
+2020f1: 169,0
+2020f2: 172,5
+2.4
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Hist�ria da Arte
+9182
+[Lic-1� cic]
+2019f1: 122,5
+2019f2: 132,5
+2020f1: 138,0
+2020f2: 148,0
+3
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+L�nguas, Literaturas e Culturas
+9204
+[Lic-1� cic]
+2019f1: 145,5
+2019f2: 151,0
+2020f1: 158,5
+2020f2: 169,0
+1.8
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 141,0
+2019f2: 139,5
+2020f1: 152,0
+2020f2: 153,5
+4.3
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Sociologia (regime p�s-laboral)
+8109
+[Lic-1� cic]
+2019f1: 127,0
+2019f2: 132,0
+2020f1: 132,0
+2020f2: 147,0
+4.3
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias Sociais e Humanas
+0902
+Tradu��o
+9252
+[Lic-1� cic]
+2019f1: 151,0
+2019f2: 166,5
+2020f1: 162,5
+2020f2: 167,5
+3.7
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Biologia Celular e Molecular
+9348
+[Lic-1� cic]
+2019f1: 162,0
+2019f2: 161,0
+2020f1: 169,4
+2020f2: 169,2
+0.2
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 154,0
+2019f2: 153,8
+2020f1: 165,0
+2020f2: 164,0
+1.2
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Conserva��o - Restauro
+8036
+[Lic-1� cic]
+2019f1: 144,2
+2019f2: 142,2
+2020f1: 149,4
+2020f2: 148,0
+0
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Biom�dica
+9359
+[Mest Integ]
+2019f1: 172,2
+2019f2: 175,6
+2020f1: 178,6
+2020f2: 181,0
+1
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Eletrot�cnica e de Computadores
+9367
+[Mest Integ]
+2019f1: 138,4
+2019f2: 147,8
+2020f1: 142,2
+2020f2: 145,2
+2.2
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia F�sica
+9368
+[Mest Integ]
+2019f1: 167,8
+2019f2: 182,0
+2020f1: 175,2
+2020f2: �
+1
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Geol�gica
+9116
+[Lic-1� cic]
+2019f1: 121,2
+2019f2: 133,8
+2020f1: 114,2
+2020f2: 133,2
+3.1
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia de Materiais
+9363
+[Mest Integ]
+2019f1: 151,8
+2019f2: 151,4
+2020f1: 146,6
+2020f2: 125,2
+6
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia de Micro e Nanotecnologias
+8334
+[Mest Integ]
+2019f1: 149,8
+2019f2: 152,0
+2020f1: 151,4
+2020f2: 152,2
+1
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Engenharia Qu�mica e Biol�gica
+9126
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: 169,2
+2019f2: �
+2020f1: 169,4
+2020f2: 131,2
+0
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Matem�tica Aplicada � Gest�o do Risco
+L167
+[Lic-1� cic]
+2019f1: 168,2
+2019f2: 171,6
+2020f1: 171,4
+2020f2: 180,2
+None
+
+Universidade Nova de Lisboa - Faculdade de Ci�ncias e Tecnologia
+0903
+Qu�mica Aplicada
+9224
+[Lic-1� cic]
+2019f1: 143,2
+2019f2: 143,2
+2020f1: 147,2
+2020f2: 148,8
+1.8
+
+Universidade Nova de Lisboa - Faculdade de Direito
+0911
+Direito
+9078
+[Lic-1� cic]
+2019f1: 166,6
+2019f2: 163,6
+2020f1: 173,2
+2020f2: 171,2
+2.3
+
+Universidade Nova de Lisboa - Faculdade de Economia
+0904
+Economia
+9081
+[Lic-1� cic]
+2019f1: 171,0
+2019f2: 180,0
+2020f1: 176,5
+2020f2: 182,5
+0.7
+
+Universidade Nova de Lisboa - Faculdade de Economia
+0904
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 176,5
+2019f2: 177,5
+2020f1: 182,0
+2020f2: 184,0
+0.5
+
+Universidade Nova de Lisboa - Instituto Superior de Estat�stica e Gest�o de Informa��o
+0906
+Gest�o de Informa��o
+9155
+[Lic-1� cic]
+2019f1: 171,3
+2019f2: 170,2
+2020f1: 167,9
+2020f2: 153,5
+0.8
+
+Universidade Nova de Lisboa - Instituto Superior de Estat�stica e Gest�o de Informa��o
+0906
+Sistemas e Tecnologias de Informa��o
+8259
+[Lic-1� cic]
+2019f1: 161,3
+2019f2: 165,6
+2020f1: 159,8
+2020f2: 149,2
+1.8
+
+Universidade do Porto - Faculdade de Arquitetura
+1102
+Arquitetura
+9257
+[Mest Integ]
+2019f1: 177,0
+2019f2: 177,0
+2020f1: 180,5
+2020f2: 181,0
+5.3
+
+Universidade do Porto - Faculdade de Belas-Artes
+5402
+Artes Pl�sticas
+9007
+[Lic-1� cic]
+2019f1: 162,0
+2019f2: 170,0
+2020f1: 167,5
+2020f2: 177,5
+3.4
+
+Universidade do Porto - Faculdade de Belas-Artes
+5402
+Design de Comunica��o
+9070
+[Lic-1� cic]
+2019f1: 172,5
+2019f2: 185,0
+2020f1: 178,0
+2020f2: 189,0
+5.1
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Arquitetura Paisagista
+8258
+[Lic-1� cic]
+2019f1: 123,5
+2019f2: 136,5
+2020f1: 137,5
+2020f2: 145,0
+2.9
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 141,5
+2019f2: 141,5
+2020f1: 156,5
+2020f2: 154,0
+2.6
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 169,0
+2019f2: 171,0
+2020f1: 175,5
+2020f2: 174,0
+0.6
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Ci�ncia de Computadores
+9696
+[Lic-1� cic]
+2019f1: 143,5
+2019f2: 155,0
+2020f1: 161,0
+2020f2: 171,0
+1.3
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Ci�ncias e Tecnologia do Ambiente
+9709
+[Lic-1� cic]
+2019f1: 133,5
+2019f2: 131,0
+2020f1: 136,5
+2020f2: 142,5
+4.6
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Engenharia Agron�mica
+9086
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Engenharia F�sica
+9368
+[Mest Integ]
+2019f1: 166,8
+2019f2: 173,3
+2020f1: 176,0
+2020f2: 175,0
+2.1
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Engenharia Geoespacial
+L096
+[Lic-1� cic]
+2019f1: 121,8
+2019f2: 106,3
+2020f1: 126,5
+2020f2: 112,5
+None
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Engenharia de Redes e Sistemas Inform�ticos
+9812
+[Mest Integ]
+2019f1: 136,0
+2019f2: 151,0
+2020f1: 148,5
+2020f2: 170,0
+0
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+F�sica
+9141
+[Lic-1� cic]
+2019f1: 171,8
+2019f2: 167,5
+2020f1: 176,3
+2020f2: 168,3
+0
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Geologia
+9146
+[Lic-1� cic]
+2019f1: 118,0
+2019f2: 123,5
+2020f1: 115,5
+2020f2: 123,0
+3.6
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Matem�tica
+9209
+[Lic-1� cic]
+2019f1: 155,0
+2019f2: 151,0
+2020f1: 165,0
+2020f2: 176,0
+0.7
+
+Universidade do Porto - Faculdade de Ci�ncias
+1103
+Qu�mica
+9223
+[Lic-1� cic]
+2019f1: 112,8
+2019f2: 133,0
+2020f1: 113,3
+2020f2: 120,5
+3.5
+
+Universidade do Porto - Faculdade de Ci�ncias da Nutri��o e da Alimenta��o
+1101
+Ci�ncias da Nutri��o
+9554
+[Lic-1� cic]
+2019f1: 152,0
+2019f2: 158,5
+2020f1: 158,5
+2020f2: 180,3
+7.3
+
+Universidade do Porto - Faculdade de Desporto
+1111
+Ci�ncias do Desporto
+9707
+[Lic-1� cic]
+2019f1: 142,0
+2019f2: �
+2020f1: 155,5
+2020f2: 155,0
+2.7
+
+Universidade do Porto - Faculdade de Direito
+1114
+Criminologia
+9066
+[Lic-1� cic]
+2019f1: 165,6
+2019f2: 164,6
+2020f1: 170,2
+2020f2: 166,0
+3.5
+
+Universidade do Porto - Faculdade de Direito
+1114
+Direito
+9078
+[Lic-1� cic]
+2019f1: 174,0
+2019f2: 172,8
+2020f1: 181,2
+2020f2: 177,6
+5
+
+Universidade do Porto - Faculdade de Economia
+1104
+Economia
+9081
+[Lic-1� cic]
+2019f1: 171,3
+2019f2: 177,0
+2020f1: 178,0
+2020f2: 186,5
+1.9
+
+Universidade do Porto - Faculdade de Economia
+1104
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 178,0
+2019f2: 182,5
+2020f1: 185,0
+2020f2: 189,5
+2.3
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Bioengenharia
+9540
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Ci�ncias de Engenharia - Engenharia de Minas e Geoambiente
+9897
+[Lic-1� cic]
+2019f1: 115,3
+2019f2: 132,5
+2020f1: 111,8
+2020f2: 111,3
+6.6
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia do Ambiente
+9099
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Eletrot�cnica e de Computadores
+9367
+[Mest Integ]
+2019f1: 164,3
+2019f2: 173,3
+2020f1: 166,0
+2020f2: 166,3
+0.9
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Eletrot�cnica e de Computadores
+L209
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Inform�tica e Computa��o
+9459
+[Mest Integ]
+2019f1: 178,3
+2019f2: 192,0
+2020f1: 183,0
+2020f2: 183,8
+0.9
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Metal�rgica e de Materiais
+9460
+[Mest Integ]
+2019f1: 157,8
+2019f2: 164,0
+2020f1: 155,8
+2020f2: 157,8
+4.1
+
+Universidade do Porto - Faculdade de Engenharia
+1105
+Engenharia Qu�mica
+9125
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade do Porto - Faculdade de Farm�cia
+1106
+Ci�ncias Farmac�uticas
+9494
+[Mest Integ]
+2019f1: 150,3
+2019f2: 152,8
+2020f1: 161,0
+2020f2: 177,0
+2.3
+
+Universidade do Porto - Faculdade de Letras
+1107
+Arqueologia
+9006
+[Lic-1� cic]
+2019f1: 134,4
+2019f2: 137,0
+2020f1: 143,2
+2020f2: 145,6
+4.5
+
+Universidade do Porto - Faculdade de Letras
+1107
+Ci�ncia da Informa��o
+9694
+[Lic-1� cic]
+2019f1: 146,2
+2019f2: 141,2
+2020f1: 144,4
+2020f2: 147,2
+3.4
+
+Universidade do Porto - Faculdade de Letras
+1107
+Ci�ncias da Comunica��o: Jornalismo, Assessoria, Multim�dia
+9701
+[Lic-1� cic]
+2019f1: 165,6
+2019f2: 165,2
+2020f1: 170,2
+2020f2: 172,4
+5.8
+
+Universidade do Porto - Faculdade de Letras
+1107
+Ci�ncias da Linguagem
+9040
+[Lic-1� cic]
+2019f1: 131,6
+2019f2: 131,8
+2020f1: 136,2
+2020f2: 148,6
+3.1
+
+Universidade do Porto - Faculdade de Letras
+1107
+Estudos Portugueses
+9917
+[Lic-1� cic]
+2019f1: 130,8
+2019f2: 128,0
+2020f1: 142,6
+2020f2: 143,4
+5.5
+
+Universidade do Porto - Faculdade de Letras
+1107
+Filosofia
+9139
+[Lic-1� cic]
+2019f1: 128,2
+2019f2: 131,2
+2020f1: 143,6
+2020f2: 143,2
+5
+
+Universidade do Porto - Faculdade de Letras
+1107
+Geografia
+9143
+[Lic-1� cic]
+2019f1: 133,4
+2019f2: 141,2
+2020f1: 136,6
+2020f2: 142,8
+5.7
+
+Universidade do Porto - Faculdade de Letras
+1107
+Hist�ria
+9181
+[Lic-1� cic]
+2019f1: 152,8
+2019f2: 150,6
+2020f1: 162,4
+2020f2: 163,8
+2.5
+
+Universidade do Porto - Faculdade de Letras
+1107
+Hist�ria da Arte
+9182
+[Lic-1� cic]
+2019f1: 142,0
+2019f2: 140,8
+2020f1: 156,2
+2020f2: 149,2
+4.5
+
+Universidade do Porto - Faculdade de Letras
+1107
+L�nguas Aplicadas
+9192
+[Lic-1� cic]
+2019f1: 172,8
+2019f2: 171,4
+2020f1: 175,6
+2020f2: 182,0
+2.1
+
+Universidade do Porto - Faculdade de Letras
+1107
+L�nguas e Rela��es Internacionais
+9197
+[Lic-1� cic]
+2019f1: 179,0
+2019f2: 178,2
+2020f1: 183,8
+2020f2: 183,2
+1.9
+
+Universidade do Porto - Faculdade de Letras
+1107
+L�nguas, Literaturas e Culturas
+9204
+[Lic-1� cic]
+2019f1: 160,8
+2019f2: 158,4
+2020f1: 168,6
+2020f2: 172,4
+3.7
+
+Universidade do Porto - Faculdade de Letras
+1107
+Sociologia
+9240
+[Lic-1� cic]
+2019f1: 147,0
+2019f2: 147,4
+2020f1: 158,0
+2020f2: 159,8
+2.2
+
+Universidade do Porto - Faculdade de Medicina
+1108
+Medicina
+9813
+[Mest Integ]
+2019f1: 182,7
+2019f2: 192,3
+2020f1: 188,5
+2020f2: 192,8
+0.2
+
+Universidade do Porto - Faculdade de Medicina Dent�ria
+1113
+Medicina Dent�ria
+9548
+[Mest Integ]
+2019f1: 172,0
+2019f2: 177,5
+2020f1: 182,0
+2020f2: 185,3
+2.2
+
+Universidade do Porto - Faculdade de Psicologia e de Ci�ncias da Educa��o
+1109
+Ci�ncias da Educa��o
+9026
+[Lic-1� cic]
+2019f1: 140,0
+2019f2: 148,0
+2020f1: 148,5
+2020f2: 147,5
+6.1
+
+Universidade do Porto - Faculdade de Psicologia e de Ci�ncias da Educa��o
+1109
+Psicologia
+9555
+[Mest Integ]
+2019f1: 166,0
+2019f2: 165,5
+2020f1: 175,0
+2020f2: 176,0
+10
+
+Universidade do Porto - Instituto de Ci�ncias Biom�dicas Abel Salazar
+1110
+Ci�ncias do Meio Aqu�tico
+9708
+[Lic-1� cic]
+2019f1: 134,5
+2019f2: 135,5
+2020f1: 155,0
+2020f2: 153,0
+0.5
+
+Universidade do Porto - Instituto de Ci�ncias Biom�dicas Abel Salazar
+1110
+Medicina
+9813
+[Mest Integ]
+2019f1: 185,0
+2019f2: 193,7
+2020f1: 189,8
+2020f2: 192,2
+0
+
+Universidade do Porto - Instituto de Ci�ncias Biom�dicas Abel Salazar
+1110
+Medicina Veterin�ria
+9847
+[Mest Integ]
+2019f1: 167,8
+2019f2: 171,3
+2020f1: 178,0
+2020f2: 182,0
+2.5
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Agr�rias e Veterin�rias
+1201
+Arquitetura Paisagista
+8258
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+8.9
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Agr�rias e Veterin�rias
+1201
+Engenharia Agron�mica
+9086
+[Lic-1� cic]
+2019f1: 115,3
+2019f2: 112,6
+2020f1: 122,5
+2020f2: 123,3
+3.7
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Agr�rias e Veterin�rias
+1201
+Engenharia Florestal
+9114
+[Lic-1� cic]
+2019f1: 117,7
+2019f2: 124,5
+2020f1: 120,2
+2020f2: 115,0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Agr�rias e Veterin�rias
+1201
+Engenharia Zoot�cnica
+9129
+[Lic-1� cic]
+2019f1: 116,6
+2019f2: 125,1
+2020f1: 121,4
+2020f2: 113,1
+7.9
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Agr�rias e Veterin�rias
+1201
+Enologia
+9752
+[Lic-1� cic]
+2019f1: 97,3
+2019f2: 109,4
+2020f1: 108,0
+2020f2: 106,7
+4.8
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Agr�rias e Veterin�rias
+1201
+Medicina Veterin�ria
+9847
+[Mest Integ]
+2019f1: 159,4
+2019f2: 165,8
+2020f1: 171,2
+2020f2: 178,9
+3.2
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Anima��o Cultural e Comunit�ria
+L092
+[Lic-1� cic]
+2019f1: 120,1
+2019f2: 121,3
+2020f1: �
+2020f2: �
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Anima��o Sociocultural
+9005
+[Lic-1� cic]
+2019f1: �
+2019f2: �
+2020f1: 104,8
+2020f2: 129,4
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Ci�ncias da Comunica��o
+9023
+[Lic-1� cic]
+2019f1: 136,7
+2019f2: 135,3
+2020f1: 141,7
+2020f2: 141,5
+8.6
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Economia
+9081
+[Lic-1� cic]
+2019f1: 138,6
+2019f2: 136,2
+2020f1: 140,1
+2020f2: 147,6
+7.6
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Educa��o B�sica
+9853
+[Lic-1� cic]
+2019f1: 112,3
+2019f2: 129,2
+2020f1: 121,8
+2020f2: 129,1
+8
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Gest�o
+9147
+[Lic-1� cic]
+2019f1: 155,2
+2019f2: 148,9
+2020f1: 157,8
+2020f2: 158,0
+8.3
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+L�nguas e Rela��es Empresariais
+9196
+[Lic-1� cic]
+2019f1: 141,5
+2019f2: 144,9
+2020f1: 142,6
+2020f2: 160,1
+6.8
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+L�nguas, Literaturas e Culturas
+9204
+[Lic-1� cic]
+2019f1: 128,4
+2019f2: 121,4
+2020f1: 129,8
+2020f2: 145,1
+12.3
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Psicologia
+9219
+[Lic-1� cic]
+2019f1: 149,3
+2019f2: 148,9
+2020f1: 153,9
+2020f2: 153,4
+3
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Servi�o Social
+9238
+[Lic-1� cic]
+2019f1: 133,9
+2019f2: 135,3
+2020f1: 138,9
+2020f2: 138,6
+14.2
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Teatro e Artes Performativas
+9803
+[Lic-1� cic]
+2019f1: 117,0
+2019f2: 132,2
+2020f1: 120,3
+2020f2: 120,5
+10
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias Humanas e Sociais
+1202
+Turismo
+9254
+[Lic-1� cic]
+2019f1: 130,2
+2019f2: 126,8
+2020f1: 130,6
+2020f2: 134,0
+10.8
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Comunica��o e Multim�dia
+9052
+[Lic-1� cic]
+2019f1: 129,9
+2019f2: 133,8
+2020f1: 131,3
+2020f2: 141,5
+9.7
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia Biom�dica
+9455
+[Lic-1� cic]
+2019f1: 137,0
+2019f2: 132,1
+2020f1: 135,3
+2020f2: 146,4
+1.1
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia Civil
+9089
+[Lic-1� cic]
+2019f1: 126,2
+2019f2: 108,9
+2020f1: 121,7
+2020f2: 119,7
+2.8
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia Eletrot�cnica e de Computadores
+L209
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia das Energias Renov�veis
+8463
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia F�sica
+9113
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia e Gest�o Industrial
+9104
+[Lic-1� cic]
+2019f1: 118,4
+2019f2: 155,1
+2020f1: 119,5
+2020f2: 136,9
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia e Gest�o Industrial (Preparat�rios)
+8088
+[Prep. MI]
+2019f1: �
+2019f2: �
+2020f1: �
+2020f2: �
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia Inform�tica
+9119
+[Lic-1� cic]
+2019f1: 122,6
+2019f2: 150,5
+2020f1: 134,6
+2020f2: 144,9
+1.4
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia Mec�nica
+9123
+[Lic-1� cic]
+2019f1: 118,2
+2019f2: 129,1
+2020f1: 132,5
+2020f2: 137,3
+7.3
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Engenharia da Sustentabilidade
+L115
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Matem�tica Aplicada e Ci�ncia de Dados
+L193
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Tecnologias de Apoio e Acessibilidade
+L043
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias e Tecnologia
+1203
+Tecnologias de Informa��o e Comunica��o
+9250
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Bioengenharia
+9540
+[Lic-1� cic]
+2019f1: 124,0
+2019f2: 123,7
+2020f1: 122,9
+2020f2: 126,9
+2
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Biologia
+9011
+[Lic-1� cic]
+2019f1: 99,0
+2019f2: 103,8
+2020f1: 124,7
+2020f2: 138,5
+2.1
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Biologia e Geologia
+9012
+[Lic-1� cic]
+2019f1: 96,0
+2019f2: 105,5
+2020f1: 106,5
+2020f2: 124,0
+4.3
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Bioqu�mica
+9015
+[Lic-1� cic]
+2019f1: 123,6
+2019f2: 125,3
+2020f1: 128,6
+2020f2: 131,0
+1.9
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Ci�ncia Alimentar
+9693
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Ci�ncias do Ambiente
+9379
+[Lic-1� cic]
+2019f1: 106,8
+2019f2: 103,3
+2020f1: 121,4
+2020f2: 113,0
+13
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Ci�ncias do Desporto
+9707
+[Lic-1� cic]
+2019f1: 0
+2019f2: 0
+2020f1: 0
+2020f2: 0
+7
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Ci�ncias da Nutri��o
+9554
+[Lic-1� cic]
+2019f1: 129,5
+2019f2: 120,0
+2020f1: 139,3
+2020f2: 154,0
+None
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Gen�tica e Biotecnologia
+9761
+[Lic-1� cic]
+2019f1: 128,5
+2019f2: 114,8
+2020f1: 140,4
+2020f2: 138,5
+2.2
+
+Universidade de Tr�s-os-Montes e Alto Douro - Escola de Ci�ncias da Vida e do Ambiente
+1204
+Reabilita��o Psicomotora
+9841
+[Lic-1� cic]
+2019f1: 95,0
+2019f2: 99,6
+2020f1: 131,0
+2020f2: 136,7
+7.4

@@ -1,0 +1,344 @@
+
+<html>
+<head>
+    <title>Dados e Estatísticas de Cursos Superiores</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link href="cap.css" rel="stylesheet" type="text/css">
+    <link href="favicon.ico" rel="shortcut icon">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="opentip/opentip-jquery-excanvas.js"></script>
+    <link href="opentip/opentip.css" rel="stylesheet" type="text/css" />
+    <!-- AddThis Button -->
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5334b6463f284af8"></script>
+    <!-- AddThis Button -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-51763668-1', 'mec.pt');
+  ga('send', 'pageview');
+</script>
+
+</head>
+<body leftmargin=1 rightmargin=1 topmargin=1 >
+<form style='display:inline;' name='form1' id='form1' method='post' action='.' ><table width='100%' border=0 cellspacing=0 cellpadding=0><tr><td align='left' class='brTopo'><table width='100%' border=0 cellspacing=0 cellpadding=0><tr><td align='left' width='370' style='padding-top: 0px; padding-left: 10px;'><img src='imgs/mec.png' align='middle' /></td><td align='center' style='padding-top:0px;'><table width='100%' border=0 cellspacing=0 cellpadding=0><tr><td height='18' align='right' valign='top'><div style='vertical-align: top; display:inline; float:right;'>
+<!-- AddThis Button BEGIN -->
+<div style='display:inline;' class="addthis_toolbox addthis_default_style " addthis:url="http://infocursos.mec.pt" addthis:title="Dados e Estatísticas de Cursos Superiores" addthis:description="Dados e Estatísticas de Cursos Superiores"> 
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+<!--<a class="addthis_button_facebook_like"></a><a class="addthis_button_tweet"></a><a class="addthis_counter addthis_pill_style"></a>    -->
+</div>
+
+<!-- AddThis Button END -->
+</div></td></tr><tr><td align='left' valign='bottom' style='padding-top:5px;'><div class='Titulo' onClick='javascript:gop(form1,0);' style='vertical-align: bottom;'>Dados e Estatísticas de Cursos Superiores</div></td></tr></table></td></tr><tr><td colspan='2' align='left' style='padding-top: 6px;'><table width='100%' border=0 cellspacing=0 cellpadding=0><tr><td class='brTopo0' width='190' align='left'><table border=0 cellspacing=0 cellpadding=0><tr class='brTopoTxt' valign='bottom'><td align='left' class='brTopoEsc'><span onClick='javascript:abr("dPav");' >ESCOLHER CURSO <img src='imgs/BlueDown.png' align='absmiddle' border='0' /></span></td></tr></table></td><td class='brTopo0' width='200' align='left' style='vertical-align:bottom;'>&nbsp;</td><td class='brTopo0' align='center' style='vertical-align:bottom;'>&nbsp;</td><td width='518' align='right' style='vertical-align:bottom;'><table valign='bottom' border=0 cellspacing=0 cellpadding=0><tr><td width='190' align='left' valign='top' class='btnGrafNac'><span onClick='javascript:gop(form1,4);' ><img src='imgs/graf16.png' align='absmiddle' /><b> Estatísticas Nacionais </b></span>&nbsp;</td><td class='brTopo0' width='8' align='left' valign='top'>&nbsp;</td><td width='180' align='left' valign='top' class='btnGrafIn'><span><img src='imgs/graf16.png' align='absmiddle' /><b> Estatísticas do curso </b></span>&nbsp;</td><td class='brTopo0' width='8' align='left' valign='top'>&nbsp;</td><td width='140' align='left' valign='top' class='btnDetal'><span onClick='javascript:gop(form1,2);' ><img src='imgs/det16.png' align='absmiddle' /><b> Dados do curso </b></span></td></tr></table></td><td class='brTopo0' width='16px' align='center'>&nbsp;</td></table></td></tr></table></td></tr></table></td></tr></table><table width='100%' border=0 cellspacing=0 cellpadding=0><tr><td align='left' valign='top'><div class='pavDivBox' id='dPav' name='dPav' style='DISPLAY:none;'><div class='pavDiv' align='left' id='dPav2' name='dPav2'><table width='900' border=0 cellspacing=0 cellpadding=0><tr><td class='opcTabTop' colspan='2' align='left' valign='top'> Pesquisar Curso</td></tr><tr><td class='opcGrupo' colspan='1' align='left'  valign='top'>Instituição desejada:<table width='700' border=0 cellspacing=0 cellpadding=0><tr height=10 class='brTopoTxt' valign='middle'><td colspan='3' align='left' class='brTopoTxt'></td></tr><tr class='brTopoTxt' valign='middle'><td colspan='1' width=110 align='left' class='opcGrelha'>Estabelecimento: </td><td colspan='1' align='left' class='brTopoTxt'><SELECT name='lstEstab' id='lstEstab' size=1 class='lstEstab' style='width:550px'><option VALUE='0'>--- Estabelecimento ---</option><optgroup label='Público'><option VALUE='7001'> Escola Superior de Enfermagem de Coimbra</option><option VALUE='7002'> Escola Superior de Enfermagem de Lisboa</option><option VALUE='7003'> Escola Superior de Enfermagem do Porto</option><option VALUE='7110'> Escola Superior de Hotelaria e Turismo do Estoril</option><option VALUE='7105'> Escola Superior Náutica Infante D. Henrique</option><option VALUE='3090'> Instituto Politécnico da Guarda</option><option VALUE='3020'> Instituto Politécnico de Beja</option><option VALUE='3040'> Instituto Politécnico de Bragança</option><option VALUE='3050'> Instituto Politécnico de Castelo Branco</option><option VALUE='3060'> Instituto Politécnico de Coimbra</option><option VALUE='3100'> Instituto Politécnico de Leiria</option><option VALUE='3110'> Instituto Politécnico de Lisboa</option><option VALUE='3120'> Instituto Politécnico de Portalegre</option><option VALUE='3140'> Instituto Politécnico de Santarém</option><option VALUE='3150'> Instituto Politécnico de Setúbal</option><option VALUE='3240'> Instituto Politécnico de Tomar</option><option VALUE='3160'> Instituto Politécnico de Viana do Castelo</option><option VALUE='3180'> Instituto Politécnico de Viseu</option><option VALUE='3030'> Instituto Politécnico do Cávado e do Ave</option><option VALUE='3130'> Instituto Politécnico do Porto</option><option VALUE='6800'> ISCTE - Instituto Universitário de Lisboa</option><option VALUE='1400'> Universidade Aberta</option><option VALUE='0400'> Universidade da Beira Interior</option><option VALUE='1300'> Universidade da Madeira</option><option VALUE='0300'> Universidade de Aveiro</option><option VALUE='0500'> Universidade de Coimbra</option><option VALUE='0600'> Universidade de Évora</option><option VALUE='1500'> Universidade de Lisboa</option><option VALUE='1200'> Universidade de Trás-os-Montes e Alto Douro</option><option VALUE='0200'> Universidade do Algarve</option><option VALUE='1000'> Universidade do Minho</option><option VALUE='1100'> Universidade do Porto</option><option VALUE='0100'> Universidade dos Açores</option><option VALUE='0900'> Universidade Nova de Lisboa</option><optgroup label='Privado'><option VALUE='4002'> Academia Nacional Superior de Orquestra</option><option VALUE='2710'> Atlântica - Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia</option><option VALUE='4107'> CESPU-Instituto Politécnico de Saúde do Norte</option><option VALUE='4005'> Conservatório Superior de Música de Gaia</option><option VALUE='4010'> Escola Superior Artística do Porto</option><option VALUE='4020'> Escola Superior de Actividades Imobiliárias</option><option VALUE='4069'> Escola Superior de Artes e Design</option><option VALUE='4074'> Escola Superior de Educação Almeida Garrett</option><option VALUE='4076'> Escola Superior de Educação de Fafe</option><option VALUE='4080'> Escola Superior de Educação de João de Deus</option><option VALUE='4085'> Escola Superior de Educação de Paula Frassinetti</option><option VALUE='4077'> Escola Superior de Educação Jean Piaget de Almada</option><option VALUE='4065'> Escola Superior de Educadores de Infância Maria Ulrich</option><option VALUE='4110'> Escola Superior de Enfermagem Cruz Vermelha Portuguesa - Alto Tâmega</option><option VALUE='4098'> Escola Superior de Enfermagem de S. José de Cluny</option><option VALUE='4096'> Escola Superior de Enfermagem S. Francisco das Misericórdias</option><option VALUE='4141'> Escola Superior de Negócios Atlântico</option><option VALUE='4590'> Escola Superior de Saúde Atlântica</option><option VALUE='4091'> Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa</option><option VALUE='4097'> Escola Superior de Saúde de Santa Maria</option><option VALUE='4105'> Escola Superior de Saúde do Alcoitão</option><option VALUE='4106'> Escola Superior de Saúde Egas Moniz</option><option VALUE='4101'> Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia</option><option VALUE='4103'> Escola Superior de Saúde Jean Piaget de Viseu</option><option VALUE='4089'> Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa</option><option VALUE='4104'> Escola Superior de Saúde Ribeiro Sanches</option><option VALUE='4309'> Escola Superior de Tecnologia e Gestão Jean Piaget</option><option VALUE='4115'> Escola Superior de Tecnologias de Fafe</option><option VALUE='4025'> Escola Superior Gallaecia</option><option VALUE='4126'> Escola Universitária Vasco da Gama</option><option VALUE='4610'> Instituto Politécnico da Lusofonia</option><option VALUE='4580'> Instituto Politécnico da Maia</option><option VALUE='4600'> Instituto Politécnico Jean Piaget do Sul</option><option VALUE='4156'> Instituto Português de Administração de Marketing de Lisboa</option><option VALUE='4155'> Instituto Português de Administração de Marketing do Porto</option><option VALUE='4292'> Instituto Superior D. Dinis</option><option VALUE='4200'> Instituto Superior de Administração e Gestão</option><option VALUE='4220'> Instituto Superior de Administração e Línguas</option><option VALUE='4275'> Instituto Superior de Ciências da Administração</option><option VALUE='4277'> Instituto Superior de Ciências da Informação e da Administração</option><option VALUE='4270'> Instituto Superior de Ciências Educativas</option><option VALUE='4271'> Instituto Superior de Ciências Educativas do Douro</option><option VALUE='4280'> Instituto Superior de Ciências Empresariais e do Turismo</option><option VALUE='4295'> Instituto Superior de Comunicação Empresarial</option><option VALUE='4283'> Instituto Superior de Entre Douro e Vouga</option><option VALUE='4306'> Instituto Superior de Estudos Interculturais e Transdisciplinares de Almada</option><option VALUE='4308'> Instituto Superior de Estudos Interculturais e Transdisciplinares de Viseu</option><option VALUE='4300'> Instituto Superior de Gestão</option><option VALUE='4150'> Instituto Superior de Novas Profissões</option><option VALUE='4380'> Instituto Superior de Paços de Brandão</option><option VALUE='4520'> Instituto Superior de Serviço Social do Porto</option><option VALUE='4530'> Instituto Superior de Tecnologias Avançadas de Lisboa</option><option VALUE='4531'> Instituto Superior de Tecnologias Avançadas de Lisboa (Porto)</option><option VALUE='4375'> Instituto Superior Manuel Teixeira Gomes</option><option VALUE='4500'> Instituto Superior Miguel Torga</option><option VALUE='4385'> Instituto Superior Politécnico do Oeste</option><option VALUE='4440'> Instituto Superior Politécnico Gaya</option><option VALUE='4358'> Instituto Universitário da Maia - ISMAI</option><option VALUE='4261'> Instituto Universitário de Ciências da Saúde</option><option VALUE='4260'> Instituto Universitário Egas Moniz</option><option VALUE='4460'> ISAVE - Instituto Superior de Saúde</option><option VALUE='4298'> ISEC Lisboa - Instituto Superior de Educação e Ciências</option><option VALUE='4570'> ISLA - Instituto Politécnico de Gestão e Tecnologia</option><option VALUE='4354'> ISLA - Instituto Superior de Gestão e Administração de Leiria</option><option VALUE='4352'> ISLA - Instituto Superior de Gestão e Administração de Santarém</option><option VALUE='4450'> ISPA-Instituto Universitário de Ciências Psicológicas, Sociais e da Vida</option><option VALUE='2100'> Universidade Autónoma de Lisboa Luís de Camões</option><option VALUE='2200'> Universidade Católica Portuguesa</option><option VALUE='4350'> Universidade Europeia</option><option VALUE='2750'> Universidade Fernando Pessoa</option><option VALUE='2400'> Universidade Lusíada</option><option VALUE='2405'> Universidade Lusíada - Norte</option><option VALUE='2800'> Universidade Lusófona de Humanidades e Tecnologias</option><option VALUE='4032'> Universidade Lusófona do Porto</option><option VALUE='2500'> Universidade Portucalense Infante D. Henrique</option></SELECT></td><td width='16px' align='center' class='brTopoTxt'></td></tr><tr class='brTopoTxt' valign='middle'><td colspan='1' width=110 align='left' class='opcGrelha'>Subunidade: </td><td colspan='1' align='left' class='brTopoTxt'><SELECT name='lstUO' id='lstUO' size=1 class='lstUO' style='width:550px' onchange='javascript:pav(form1);'><option VALUE='0'>--- Subunidade ---</option></SELECT></td><td width='16px' align='center' class='brTopoTxt'></td></tr><tr class='brTopoTxt' valign='middle'><td class='opcGrupo' colspan='3' align='left' valign='top'><TABLE cellpadding='0' cellspacing='0' border='0'><TR><TD vAlign='middle' style='font-family: Verdana; font-size: 11px; color: #111111; font-weight: bold;'>Grau do curso:</TD><TD width='40' class='opcGrelha' vAlign='middle' align='right'><INPUT type='radio' value='' id='pavGrau' name='pavGrau' checked ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Todos</TD><TD width='40' class='opcGrelha' vAlign='middle' align='right'><INPUT type='radio' value='T' id='pavGrau' name='pavGrau'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>CTeSP</TD><TD width='40' class='opcGrelha' vAlign='middle' align='right'><INPUT type='radio' value='L1' id='pavGrau' name='pavGrau'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Licenciatura</TD><TD width='40' class='opcGrelha' vAlign='middle' align='right'><INPUT type='radio' value='MI' id='pavGrau' name='pavGrau'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Mestrado integrado</TD><TD width='40' class='opcGrelha' vAlign='middle' align='right'><INPUT type='radio' value='M2' id='pavGrau' name='pavGrau'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Mestrado</TD></TR></TABLE><br></td></tr></table></td><td class='opcGrupo' colspan='1' align='right'  valign='bottom'><table width='200' border=0 cellspacing=0 cellpadding=0><tr><td align='center' valign='bottom' class='tdLinkpav'><span data-ot='Pesquisa livre por nome da instituição<br>e/ou nome do curso' data-ot-tip-joint='top right' data-ot-style='dark' style='cursor: pointer;' onClick='javascript:clkpavmais("dPavin");' > Pesquisa por nome &nbsp;<img src='imgs/setaDownLeft16.png' align='absmiddle' border='0' /></span></td></tr></table></td></tr></table><table width='900' border=0 cellspacing=0 cellpadding=0><tr height='10'><td align='right' valign='top'></td></tr></table><div align='left' id='dPavin' name='dPavin' style='DISPLAY:none;'><table width='900' border=0 cellspacing=0 cellpadding=0><tr><td style='background-color: #dcdcdc; border-top: 1px ridge #808080;' colspan='6' align='right' valign='top'><span style='cursor: pointer;' onClick='javascript:clkpavmais("dPavin");' ><img src='imgs/close14.png' align='absmiddle' border='0' /></span></td></tr><tr><td class='opcGrupo' colspan='2' align='left'  valign='top'>Natureza:<br><TABLE cellpadding='0' cellspacing='0'><TR><TR ><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='radio' value='0' id='pavNat' name='pavNat' checked ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Todos</TD></TR><TR ><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='radio' value='1' id='pavNat' name='pavNat'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Público</TD></TR><TR ><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='radio' value='2' id='pavNat' name='pavNat'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Privado</TD></TR></TABLE><br></td><td class='opcGrupo' colspan='2' align='left' valign='top'>Tipo de ensino:<br><TABLE cellpadding='0' cellspacing='0'><TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='radio' value='0' id='pavTipE' name='pavTipE' checked ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Todos</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='radio' value='1' id='pavTipE' name='pavTipE'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Universitário</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='radio' value='2' id='pavTipE' name='pavTipE'  ></TD><TD class='opcGrelha' vAlign='middle' align='left'>Politécnico</TD></TR></TABLE><br></td></tr><tr><td class='opcGrupo' colspan='3' align='left' >Nome da Instituição: <INPUT class='txtInput' style='width:250px' type='text' name='pavEstabUO' id='pavEstabUO' maxlength='200' value='' > <span data-ot='Indique parte do nome da instituição<br>com ou sem acentuação gráfica' data-ot-tip-joint='top right' data-ot-style='dark'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></td><td class='opcGrupo' colspan='3' align='left' >Nome do Curso: <INPUT class='txtInput' style='width:250px' type='text' name='pavCurso' id='pavCurso' maxlength='200' value='' > <span data-ot='Indique parte do nome do curso<br>com ou sem acentuação gráfica' data-ot-tip-joint='top right' data-ot-style='dark'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></td></tr></table><br></div><table width='900' border=0 cellspacing=0 cellpadding=0><tr><td  colspan='6' align='left' valign='top'><hr /></td></tr><tr><td  colspan='6' align='center' valign='top'><span align='center'><input type='button' onClick='javascript:pav(form1);' value=' Pesquisar ' class='' name='Submit'></span> &nbsp; <span align='center'><input type='button' onClick='javascript:fec("dPav");' value=' Cancelar ' class='' name='pavCanc'></span> &nbsp; <span align='center'><input type='button' onClick='javascript:pavLim(form1);' value=' Limpar ' class='' name='pavCanc'></span></td></tr><tr><td  colspan='6' align='left' valign='top'><hr /></td></tr></table></div></div><div class='opcDiv' align='center' id='dlstGraficos' name='dlstGraficos'><table width='100%' height='200' border=0 cellspacing=0 cellpadding=0><tr><td class='opcTabTop' colspan='6' align='left' valign='top'> Gráficos</td></tr><tr><td class='opcGrupo' colspan='6' align='left' valign='top'>Visiveis:<br><div class='' align='left' id='d1a1' name='d1a1' style='position: relative; DISPLAY:none;'>&nbsp;&nbsp;&nbsp;<span style='font-size:10px; color:#666666;	font-weight:bold;'>Todos os gráficos</span></div><div class='' align='center' id='dLsfGraf' name='dLsfGraf' style='position: relative; DISPLAY:block;'><TABLE cellpadding='0' cellspacing='0'><TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf1' name='lgrf1' checked  onClick='javascript:clk34("lgrf1")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Como ingressam os alunos neste curso?</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf2' name='lgrf2' checked  onClick='javascript:clk34("lgrf2")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Percentil dos alunos que entram no curso, em termos de notas nas provas de ingresso, quando comparados com todos os alunos do País que realizaram as mesmas provas</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf3' name='lgrf3' checked  onClick='javascript:clk34("lgrf3")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Onde estavam os alunos 1 ano após iniciarem este curso?</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf4' name='lgrf4' checked  onClick='javascript:clk34("lgrf4")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Distribuição dos alunos inscritos por sexo</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf5' name='lgrf5' checked  onClick='javascript:clk34("lgrf5")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Distribuição por idades dos alunos inscritos neste curso</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf6' name='lgrf6' checked  onClick='javascript:clk34("lgrf6")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Distribuição dos alunos inscritos por nacionalidade</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf7' name='lgrf7' checked  onClick='javascript:clk34("lgrf7")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Distribuição das classificações finais dos diplomados neste curso</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf8' name='lgrf8' checked  onClick='javascript:clk34("lgrf8")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Percentagem de alunos bolseiros</TD></TR><TR><TD class='opcGrelha' vAlign='middle' align='center'><INPUT type='checkbox' value='ON' id='lgrf9' name='lgrf9' checked  onClick='javascript:clk34("lgrf9")' ></TD><TD class='opcGrelha' vAlign='middle' align='left' >Percentagem de recém-diplomados do curso que estão registados no IEFP como desempregados</TD></TR></TABLE></div><br></td></tr><tr><td  colspan='6' align='left' valign='top'><hr /></td></tr></table></div><Table width='100%' align='center' border='0' cellpadding='0' cellspacing='0'><TR><TD class='titEstCur' vAlign='middle' align='left'>&nbsp;Antropologia [Licenciatura - 1.º ciclo]<br />&nbsp;ISCTE - Instituto Universitário de Lisboa</TD><TD class='titEstCur' width='200' vAlign='middle' align='right'>&nbsp; <a href='https://www.iscte-iul.pt/curso/9/licenciatura-antropologia' target=_blank class='btnAzul'>Página do curso na instituição</a></TD><TD class='titEstCur' width='6' vAlign='middle' align='right'>&nbsp;</td></TR></Table><script type='text/javascript' src='https://www.google.com/jsapi'></script><script type='text/javascript'>google.load('visualization', '1.0', {'packages':['corechart','table']});google.setOnLoadCallback(drawChart1);function drawChart1() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Forma de ingresso');data.addColumn('number', 'Nr de Alunos');data.addRows([['1.ª opção do concurso nacional de acesso',27],['2.ª opção do concurso nacional de acesso',12],['Outras opções ou modalidades do regime geral de acesso',21],['Mudança ou transferência de curso',2],['Provas para maiores de 23 anos',7],['Outras formas de ingresso',1]]);var options = {'pieHole': 0.2,'sliceVisibilityThreshold': 0,'colors':['#233DBD','#5D8AA8','#9EADCC','#ba55d3','#BDB76B','#556B2F'],'chartArea':{left:10,top:20,width:"95%",height:"95%"},'legend':{position: 'right', textStyle: {color: '#000000', fontName: 'sans-serif'}}};chart = new google.visualization.PieChart(document.getElementById('DivChart1'));chart.draw(data, options);} google.setOnLoadCallback(drawChart2);function drawChart2() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Ano');data.addColumn('number', 'Percentil');data.addColumn('number', 'Nota');data.addRows([['2014',50.6165538219867,13.6034482758621],['2015',47.3185184663056,13.5689655172414],['2016',46.8140721567203,13.45],['2017',41.2660026565264,13.4533333333333],['2018',40.0937866167838,13.185],['2019',35.1840091216605,13.2948275862069] ]);var view = new google.visualization.DataView(data); view.setColumns([0, 1, {  	role: 'tooltip', 	type: 'string', 	calc: function (dt, row) {  		var p0 = dt.getValue(row, 0); 		var p1 = dt.getValue(row, 1); 		var p2 = dt.getValue(row, 2); 		var ps1 = parseFloat(Math.round(p1)); 		var ps2 = parseFloat(Math.round(p2*10))/10; 		ps2 = parseFloat(ps2).toFixed(1); 		var sumStr = 'Percentil médio: ' + ps1 + '\n' + 'Nota de candidatura média: ' + ps2 + ''; 		sumStr = sumStr.replace('.',','); 		return { v: sumStr, f: sumStr.toString() }; 	}}]);var options = {'pointSize':6,'legend':{position: 'none'},'vAxis':{minValue:0, maxValue:100, format:'#,###', titleTextStyle:{color: '#000000'}}, 'hAxis':{title:'Ano de acesso', titleTextStyle:{color:'#000000',fontName:'Arial',bold:false,italic:false}} };var formatter = new google.visualization.NumberFormat({pattern:'#,###'});formatter.format(data,1);chart = new google.visualization.AreaChart(document.getElementById('DivChart2'));chart.draw(view, options);} google.setOnLoadCallback(drawChart3);function drawChart3() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Situação');data.addColumn('number', 'Alunos');data.addRows([['Diplomados neste curso',0],['Inscritos no mesmo curso',49],['Inscritos noutro curso do mesmo estabelecimento',4],['Inscritos num curso de outro estabelecimento',6],['Não foram encontrados no Ensino Superior nacional',8]]);var options = {'sliceVisibilityThreshold': 0,'pieHole': 0.2,'colors':['#BDB76B','#5D8AA8','#9EADCC','#ba55d3','#A52A2A'],'chartArea':{left:10,top:20,width:"95%",height:"95%"},'legend':{position: 'right', textStyle: {color: '#000000', fontName: 'sans-serif'}}};chart = new google.visualization.PieChart(document.getElementById('DivChart3'));chart.draw(data, options);} google.setOnLoadCallback(drawChart4);function drawChart4() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Sexo');data.addColumn('number', 'Homens');data.addColumn('number', 'Mulheres');data.addRows([['Curso',0.394957983193277,0.605042016806723],['Média Nacional',0.445889397354461,0.554110602645539]]);var options = {'colors':['#4682B4','#F08080'],'chartArea':{width:"60%",height:"60%"},'bar': { groupWidth: "50%" },'isStacked': true,'hAxis':{minValue:0, maxValue:1, format:'#,###%'},'legend':{position: 'bottom'}};var formatter = new google.visualization.NumberFormat({pattern:'#,###%'});formatter.format(data,1);formatter.format(data,2);chart = new google.visualization.BarChart(document.getElementById('DivChart4'));chart.draw(data, options);} google.setOnLoadCallback(drawChart7);function drawChart7() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Nota final');data.addColumn('number', 'Alunos');data.addColumn('number', 'Percentagem');data.addRows([['10',0,0],['11',0,0],['12',3,5.88235294117647E-02],['13',9,0.176470588235294],['14',25,0.490196078431373],['15',11,0.215686274509804],['16',1,1.96078431372549E-02],['17',2,3.92156862745098E-02],['18',0,0],['19',0,0],['20',0,0]]);var view = new google.visualization.DataView(data); view.setColumns([0, 1, {  	role: 'tooltip', 	type: 'string', 	calc: function (dt, row) {  		var p0 = dt.getValue(row, 0); 		var p1 = dt.getValue(row, 1); 		var p2 = dt.getValue(row, 2); 		var sumFloat = parseFloat(Math.round(p2 * 100)); 		var sumStr = 'Nota final: ' +p0 + '\n' + 'Alunos: ' + p1 + '\n' + sumFloat.toString() + '% do total'; 		return { v: sumStr, f: sumStr.toString() }; 	}}]);var options = {'colors':['#4682B4'],'orientation':'horizontal','vAxis':{title:'N.º de Alunos', minValue:0, maxValue:10, format:'#,###', titleTextStyle:{color:'#000000', fontName:'Arial', bold:false, italic:false}}, 'hAxis':{title:'Classificação final de curso', titleTextStyle:{color:'#000000', fontName:'Arial', bold:false, italic:false}}, 'legend':{position: 'none'}};chart = new google.visualization.BarChart(document.getElementById('DivChart5'));chart.draw(view, options);} google.setOnLoadCallback(drawChart6);function drawChart6() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Nacionalidade');data.addColumn('number', 'Portugueses');data.addColumn('number', 'Estrangeiros');data.addRows([['Curso',0.831932773109244,0.168067226890756],['Média Nacional',0.880764064385402,0.119235935614598]]);var options = {'colors':['#BDB76B','#5D8AA8'],'chartArea':{width:"60%",height:"60%"},'bar': { groupWidth: "50%" },'isStacked': true,'hAxis':{minValue:0, maxValue:1, format:'#,###%'},'legend':{position: 'bottom'}};var formatter = new google.visualization.NumberFormat({pattern:'#,###%'});formatter.format(data,1);formatter.format(data,2);chart = new google.visualization.BarChart(document.getElementById('DivChart6'));chart.draw(data, options);} google.setOnLoadCallback(drawChart9);function drawChart9() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Desemprego');data.addColumn('number', 'Taxa');data.addColumn('number', 'Diplomados');data.addColumn('number', 'Desempregados');data.addColumn({type:'string', role:'style'});data.addRows([['Curso',0.058,111,6.5,'color: #A52A2A'],['Área de formação (Público)',0.045,3441,156,'stroke-color: #A52A2A; stroke-width: 2; fill-color: #dddddd'],['Nacional (Público)',0.033,151571,5084,'stroke-color: #A52A2A; stroke-width: 2; fill-color: #dddddd']]);var view = new google.visualization.DataView(data); view.setColumns([0, 1, {  	role: 'tooltip', 	type: 'string', 	calc: function (dt, row) {  		var p0 = dt.getValue(row, 0); 		var p1 = dt.getValue(row, 1); 		var p2 = dt.getValue(row, 2); 		var p3 = dt.getValue(row, 3); 		var ps3 = parseFloat(Math.round(p3*10))/10; 		ps3 = parseFloat(ps3).toFixed(1); 		ps3 = ps3.replace('.',','); 		var sumStr = '' +p2 + ' diplomados 2015-2018\n' + 'dos quais, em média,\n ' + ps3 + ' estavam registados como desempregados no IEFP em 2019'; 		return { v: sumStr, f: sumStr.toString() }; 	}},{ calc:'stringify', sourceColumn: 1,type:'string', role: 'annotation' }, 4]);var options = {'colors':['#A52A2A','#A52A2A'],'chartArea':{left:"25%",top:30,width:"60%",height:"60%"},'hAxis':{minValue:0, maxValue:0.50, format:'#,###%'},'legend':{position: 'none'}};var formatter = new google.visualization.NumberFormat({pattern:'#,###.#%'});formatter.format(data,1);chart = new google.visualization.BarChart(document.getElementById('DivChart7'));chart.draw(view, options);} google.setOnLoadCallback(drawChart5);function drawChart5() { var data;var chart;data = new google.visualization.DataTable();data.addColumn('string', 'Idade');data.addColumn('number', 'Alunos');data.addColumn('number', 'Percentagem');data.addRows([['<=18',15,0.126050420168067],['19',20,0.168067226890756],['20',23,0.19327731092437],['21',11,0.092436974789916],['22',19,0.159663865546218],['23',5,4.20168067226891E-02],['24',7,5.88235294117647E-02],['25-27',7,5.88235294117647E-02],['28-30',1,8.40336134453781E-03],['31-39',5,4.20168067226891E-02],['>=40',6,5.04201680672269E-02]]);var view = new google.visualization.DataView(data); view.setColumns([0, 1, {  	role: 'tooltip', 	type: 'string', 	calc: function (dt, row) {  		var p0 = dt.getValue(row, 0); 		var p1 = dt.getValue(row, 1); 		var p2 = dt.getValue(row, 2); 		var sumFloat = parseFloat(Math.round(p2 * 100)); 		var sumStr = 'Idade: ' +p0 + '\n' + 'Alunos: ' + p1 + '\n' + sumFloat.toString() + '% do total'; 		return { v: sumStr, f: sumStr.toString() }; 	}}]);var options = {'colors':['#4682B4'],'orientation':'horizontal','vAxis':{title:'N.º de Alunos', minValue:0, maxValue:10, format:'#,###', titleTextStyle:{color:'#000000', fontName:'Arial', bold:false, italic:false}}, 'hAxis':{title:'Idade', minTextSpacing:2, titleTextStyle:{color:'#000000', fontName:'Arial', bold:false, italic:false}}, 'legend':{position: 'none'}};chart = new google.visualization.BarChart(document.getElementById('DivChart8'));chart.draw(view, options);} </script><table style='width: 100%; height: 800px;' cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' style='width: 50%;'><div id='DivTit1' class='divTitGraf'>Como ingressam os alunos neste curso? <span style='cursor: pointer;' data-ot="Mostram-se as diversas formas como<br>ingressaram no curso os alunos<br>inscritos no 1.º ano, pela 1.ª vez,<br>nos anos letivos 2017/18 e 2018/19.<br><br>Para ver todas as formas de ingresso<br>possíveis, por favor consultar a nota<br>técnica.<br><br>Fonte: Inquérito RAIDES, DGEEC.<br>N.º total de alunos reportados: 70<br><br><a href='nota.asp#1' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top right'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart1' class='divGraf'></div></td><td valign='top' style='width: 50%;'><div id='DivTit2' class='divTitGraf'>Percentil dos alunos que entram no curso, em termos de notas nas provas de ingresso, quando comparados com todos os alunos do País que realizaram as mesmas provas <span style='cursor: pointer;' data-ot="Neste gráfico utiliza-se o percentil médio<br>em vez da nota média nas provas de<br>ingresso.<br><br>O percentil é um indicador da posição<br>relativa: compara as notas nas provas de<br>ingresso dos alunos que entraram para<br>este curso, com as notas obtidas por<br>todos os alunos no País que realizaram <u><i>as<br>mesmas provas</i></u> e entraram para o Ensino<br>Superior.<br><br>A nota de um aluno situa-se no percentil<br>80, por exemplo, se estiver no limiar de<br>separação entre as 80% notas mais<br>baixas e as 20% notas mais altas na<br>prova.<br><br>Por outras palavras, um aluno situa-se no<br>percentil 80 de uma prova de ingresso, se<br>a sua nota for superior à de 80% dos<br>alunos do País que realizaram a mesma<br>prova e entraram para o Ensino Superior,<br>e for inferior à nota de 20% dos alunos<br>nas mesmas condições.<br><br>Uma vantagem importante do uso do<br>percentil, em relação às notas, é que<br>depende menos das variações anuais da<br>dificuldade dos exames. Para mais<br>informações sobre as notas de ingresso<br>neste curso, por favor consulte o<br>separador 'Dados do curso'.<br><br>Neste indicador apenas são considerados<br>os alunos que ingressaram no curso<br>através do Concurso Nacional de Acesso.<br>Quando o gráfico do percentil aparece em<br>branco, isto significa que nos anos<br>respetivos não entraram novos<br>alunos para o curso através do<br>Concurso Nacional de Acesso.<br><br>Fonte: Concurso Nacional de Acesso,<br>DGES. Apuramentos DGEEC.<br><br>N.º de alunos em cada ano: 29(2014);<br>29(2015); 31(2016); 30(2017);<br>30(2018); 29(2019).<br><br><a href='nota.asp#2' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart2' class='divGraf'></div></td></tr><tr><td valign='top' style='width: 50%;'><div id='DivTit3' class='divTitGraf'>Onde estavam os alunos 1 ano após iniciarem este curso? <span style='cursor: pointer;' data-ot="Este gráfico mostra a situação dos<br>alunos 1 ano após a sua primeira<br>matrícula. Classificámos os alunos<br>pelas respostas possíveis:<br><br>1) Aparecem como diplomados do curso;<br><br>2) Permanecem inscritos no mesmo curso;<br><br>3) Não estão inscritos nem diplomados no<br>mesmo curso, mas aparecem inscritos<br>noutro curso do mesmo estabelecimento<br>de ensino;<br><br>4) Não estão inscritos nem diplomados no<br>mesmo curso, nem no mesmo<br>estabelecimento, mas aparecem inscritos<br>noutro curso de outro estabelecimento de<br>ensino;<br><br>5) Não aparecem inscritos em nenhum<br>curso do Ensino Superior.<br><br>Cada aluno estará forçosamente numa<br>única destas categorias.<br><br>Foram considerados os alunos<br>matriculados pela primeira vez nos anos<br>letivos 2016/17 e 2017/18.<br><br>Fonte: Inquérito RAIDES, DGEEC.<br>Apuramentos DGEEC.<br>N.º total de alunos reportados: 67<br><br><a href='nota.asp#3' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top right'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart3' class='divGraf'></div></td><td valign='top' style='width: 50%;'><div id='DivTit4' class='divTitGraf'>Distribuição dos alunos inscritos por sexo <span style='cursor: pointer;' data-ot="Consideram-se os alunos inscritos em<br>todos os anos curriculares do curso no ano<br>letivo 2018/19.<br><br>A distribuição apresentada na barra<br>'Média Nacional' refere-se ao agregado de<br>todos os alunos em Portugal inscritos em<br>cursos com o mesmo nível de formação.<br><br>Fonte: Inquérito RAIDES, DGEEC.<br>N.º total de alunos reportados: 119<br><br><a href='nota.asp#5' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart4' class='divGraf'></div></td></tr><tr><td valign='top' style='width: 50%;'><div id='DivTit5' class='divTitGraf'>Distribuição das classificações finais dos diplomados neste curso <span style='cursor: pointer;' data-ot="Consideram-se os alunos diplomados do<br>curso em 2016/17 e 2017/18.<br><br>Fonte: Inquérito RAIDES, DGEEC.<br>N.º total de alunos reportados: 51<br><br><a href='nota.asp#4' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top right'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart5' class='divGraf'></div></td><td valign='top' style='width: 50%;'><div id='DivTit6' class='divTitGraf'>Distribuição dos alunos inscritos por nacionalidade <span style='cursor: pointer;' data-ot="Consideram-se os alunos inscritos em<br>todos os anos curriculares do curso no ano<br>letivo 2018/19, incluindo os inscritos em<br>programas de mobilidade internacional.<br><br>A distribuição apresentada na barra<br>'Média Nacional' refere-se ao agregado de<br>todos os alunos em Portugal inscritos em<br>cursos com o mesmo nível de formação.<br><br>Fonte: Inquérito RAIDES, DGEEC.<br>N.º total de alunos reportados: 119<br><br><a href='nota.asp#6' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top right'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart6' class='divGraf'></div></td></tr><tr><td valign='top' style='width: 50%;'><div id='DivTit7' class='divTitGraf'>Percentagem de recém-diplomados do curso que estão registados no IEFP como desempregados <span style='cursor: pointer;' data-ot="O gráfico mostra a percentagem de recém-<br>diplomados do curso que, em 2019, se encontravam registados como<br>desempregados no Instituto do Emprego e<br>Formação Profissional.<br><br>Para o cálculo desta percentagem são<br>considerados todos os alunos que se<br>diplomaram no curso entre os anos letivos<br>de 2014/15 e 2017/18.<br><br>A percentagem de desemprego registado do<br>curso deve ser comparada com a média<br>nacional e com a média da área de<br>formação onde o curso está inserido.<br><br>A barra 'Nacional' apresenta a percentagem<br>de desemprego registado do agregado de<br>todos os cursos em Portugal, de Licenciatura<br>- 1º Ciclo e de Mestrado Integrado, dentro<br>do mesmo subsistema de ensino (público ou<br>privado). Assim, um curso do Ensino Público<br>é comparado com o agregado de todos os<br>cursos do Ensino Público; um curso do<br>Ensino Privado é comparado com o<br>agregado de todos os cursos do<br>Ensino Privado.<br><br>Da mesma forma, a barra 'Área de<br>formação' apresenta a percentagem de<br>desemprego registado do agregado de todos<br>os cursos em Portugal, de Licenciatura - 1º<br>Ciclo e de Mestrado Integrado, pertencentes<br>à mesma área de formação e ao mesmo<br>subsistema de ensino do curso em causa.<br><br>Fonte: Dados do IEFP e inquérito RAIDES,<br>DGEEC. Apuramentos DGES para o Ensino<br>Público; apuramentos DGEEC para o<br>Ensino Privado.<br><br>N.º total de diplomados: 111<br><br><a href='nota.asp#8' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart7' class='divGraf'></div></td><td valign='top' style='width: 50%;'><div id='DivTit8' class='divTitGraf'>Distribuição por idades dos alunos inscritos neste curso <span style='cursor: pointer;' data-ot="Consideram-se os alunos inscritos em<br>todos os anos curriculares do curso no ano<br>letivo 2018/19.<br><br>Fonte: Inquérito RAIDES, DGEEC.<br>N.º total de alunos reportados: 119<br><br><a href='nota.asp#7' target=_blank>Nota técnica.</a><br><div style='text-align: right; cursor: pointer;' onClick='fecTips();'><span style='cursor: pointer;' onClick='fecTips();'>[x]</span></div>" data-ot-fixed='true' data-ot-show-on='click' data-ot-hide-trigger='closeButton' data-ot-close-button-link-overscan='20' data-ot-close-button-cross-color='#000000' data-ot-close-button-cross-size='6' data-ot-close-button-cross-line-width='1.5' data-ot-close-button-radius='9' data-ot-group='grpInfoTip' data-ot-tip-joint='top right'><img src='imgs/icinza12.png' align='absmiddle' border=0></span></div><div id='DivChart8' class='divGraf'></div></td></tr></table><br><br><div class='infoObs'><span style='font-size: 11px; color:#333333; background: #ffd700;'> &nbsp; Ligação direta a esta página:</span> <span style='font-size: 13px; color:#333333;' >http://infocursos.mec.pt/dges.asp?code=6800&codc=9448</span><br></div></td></tr></table><INPUT type='hidden' id='acc' name='acc' value='1' ><INPUT type='hidden' id='accpav' name='accpav'><INPUT type='hidden' id='pavI' name='pavI' value='' ><INPUT type='hidden' id='pavU' name='pavU' value='6800' ><INPUT type='hidden' id='pavC' name='pavC' value='9448' ><INPUT type='hidden' id='OpcTipV' name='OpcTipV' value='0' ><INPUT type='hidden' id='pavMais' name='pavMais' value='0' ></form><table bgcolor='#333333' width='100%' border=0 cellspacing=0 cellpadding=1 align='center'><tr height='7'><td align='right'></td></tr></table><Table bgcolor='#bbbbbb' width='100%' border='0' cellpadding='0' cellspacing='0'><TR><TD class='TabLinksRodape' vAlign='middle' align='left'><img src='imgs/3_.png' align='absmiddle' border='0' />&nbsp;&nbsp;<span onClick='javascript:gop(form1,0);' class='LinkRodape' >Página inicial </span>&nbsp;&nbsp;<img src='imgs/3_.png' align='absmiddle' border='0' />&nbsp;&nbsp;<a href='nota.asp' class='LinkRodape' target=_blank>Nota técnica</a>&nbsp;&nbsp;<img src='imgs/3_.png' align='absmiddle' border='0' />&nbsp;&nbsp;<a href='bds.asp' class='LinkRodape' target=_blank>Base de dados 2020</a>&nbsp;</TD><TD class='TabLinksRodape' vAlign='middle' align='right'><div style='vertical-align: middle; display:inline; float:right;'><div class='addthis_toolbox addthis_default_style addthis_20x20_style' addthis:url='http://infocursos.mec.pt' addthis:title='Dados e Estatísticas de Cursos Superiores' addthis:description='Dados e Estatísticas de Cursos Superiores'><a class='addthis_button_facebook'></a><a class='addthis_button_twitter'></a><a class='addthis_button_email'></a><a class='addthis_button_linkedin'></a><a class='addthis_button_google_plusone_share'></a><a class='addthis_button_compact'></a><a class='addthis_counter addthis_bubble_style'></a></div></div></TD></TR></Table>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function()
+{
+//------------------------------------->
+$(".lstEstab").change(function()
+{
+var id=$(this).val();
+var dataString = '?id='+ id;
+
+$.ajax
+({
+contentType: "charset=ISO-8859-1",
+type: "POST",
+url: "jxB1.asp"+dataString,
+cache: false,
+success: function(html)
+{
+$(".lstUO").html(html);
+limpaTab("pavResTab");
+}
+});
+});
+//-------------------------------------<
+});
+
+window.onload = maxPav;
+window.onresize = maxPav;
+//window.onscroll = maxPav;
+
+function gById(campo) {
+	return document.getElementById(campo);
+} 
+
+function Val(valor) {
+
+	valor2 = parseInt(valor);
+	if ( isNaN(valor2) || valor=='' || valor==null )
+		valor2 = 0;
+	else
+		valor2 = parseInt(valor);	
+	return valor2;
+} 
+
+function mostra(divs) {
+    var i=0;
+    var arrDivs = divs.split(",");
+
+    while (i < arrDivs.length) {
+      document.getElementById(arrDivs[i]).style.display="block";
+      i+=1;
+    }
+}
+
+function esconde(divs) {
+    var i=0;
+    var arrDivs = divs.split(",");
+
+    while (i < arrDivs.length) {
+      document.getElementById(arrDivs[i]).style.display="none";
+      i+=1;
+    }
+}
+
+function maxPav(){
+    if (gById('dPav').style.display=="block")
+        maxDiv('dPav');
+}
+
+function gop(frm,nracc){
+	frm.acc.value=nracc;
+	frm.submit();
+}
+
+function selnac(frm){
+    frm.acc.value=4;
+    frm.accpav.value=0;
+	frm.submit();
+}
+
+function pav(frm){
+
+    if ( gById("lstEstab").value==0 && gById("lstUO").value==0 && gById("pavMais").value==0  ) {	
+		alert('Indique pelo menos um critério de pesquisa.','');		
+		return false;
+    }
+    else if ( gById("lstEstab").value==0 && gById("lstUO").value==0 && gById("pavMais").value==1 && frm.pavNat[0].checked && frm.pavTipE[0].checked && frm.pavGrau[0].checked && gById("pavEstabUO").value=="" && gById("pavCurso").value=="" ) {	
+		alert('Indique pelo menos um critério de pesquisa.','');		
+		return false;
+	}	
+    else {
+	    frm.accpav.value=31;
+	    frm.submit();
+    }	    
+}
+
+function pavCan(frm){
+    frm.reset();
+}
+
+function pavLim(frm){
+	gById("lstEstab").value=0;
+	gById("lstUO").value=0;
+	frm.pavNat[0].checked=true;
+    frm.pavTipE[0].checked=true;
+    frm.pavGrau[0].checked=true;
+    gById("pavEstabUO").value="";
+    gById("pavCurso").value="";
+    
+    limpaTab("pavResTab");    
+}
+
+function limpaTab(idTable){
+    if (gById(idTable)!=null) {        
+        var myTable = gById(idTable);
+        while(myTable.hasChildNodes())
+        {
+            myTable.removeChild(myTable.firstChild);
+        }
+    }
+}
+
+function pavDet(frm,i,u,c){
+	frm.pavI.value=i;
+	frm.pavU.value=u;
+	frm.pavC.value=c;
+	frm.accpav.value=32;		
+	frm.submit();
+}
+
+function seli(frm){
+    if (frm.acc.value!=1 && frm.acc.value!=2) {
+        frm.acc.value=1;
+    }
+    //frm.accpav.value=1;
+    frm.accpav.value=31;
+	frm.lstUO.value=0;
+	//frm.C.value=0;	
+    frm.submit();
+}
+
+function selu(frm){      
+    if (frm.acc.value!=1 && frm.acc.value!=2) {
+        frm.acc.value=1;
+    }
+    frm.accpav.value=1;
+	frm.C.value=0;
+	frm.submit();
+}
+
+function selc(frm){
+    if (frm.acc.value!=1 && frm.acc.value!=2) {
+        frm.acc.value=1;
+    }
+    frm.accpav.value=1;
+	frm.submit();
+}
+
+function Navgraf(frm,pos,pos1){      
+    gById("lgrf"+pos).checked=false;
+	gById("lgrf"+pos1).checked=true;
+	frm.acc.value=1;
+	frm.submit();
+}
+
+function seg(frm,pos){      
+    var poss
+    poss=pos+1;
+    gById("lgrf"+pos).checked=false;
+	gById("lgrf"+poss).checked=true;
+	frm.acc.value=1;
+	frm.submit();
+}
+function ang(frm,pos){      
+    var poss
+    poss=pos-1;
+    gById("lgrf"+pos).checked=false;
+	gById("lgrf"+poss).checked=true;
+	frm.acc.value=1;
+	frm.submit();
+}
+
+function abr(pdiv){
+
+    esconde('dPav');
+        
+    if (gById(pdiv).style.display=="block")
+        esconde(pdiv);
+    else 
+        mostra(pdiv);   
+
+    maxDiv(pdiv);    
+}
+
+function fec(pdiv){
+    esconde(pdiv);
+}
+
+function clkpavmais(pdiv){
+
+    if (gById(pdiv).style.display=="block") {
+        esconde(pdiv);
+        form1.pavMais.value=0;
+    }
+    else {
+        form1.pavMais.value=1;    
+        mostra(pdiv);   
+    }        
+}
+
+function maxDiv(idDiv){
+
+    var w=getDocWidth();
+    var h=getDocHeight();
+
+    document.getElementById(idDiv).style.height = h;
+}
+
+function getDocHeight() {
+    var D = document;
+    return Math.max(
+        D.body.scrollHeight, D.documentElement.scrollHeight,
+        D.body.offsetHeight, D.documentElement.offsetHeight,
+        D.body.clientHeight, D.documentElement.clientHeight
+    );
+}
+
+function getDocWidth() {
+    var D = document;
+    return Math.max(
+        D.body.scrollWidth, D.documentElement.scrollWidth,
+        D.body.offsetWidth, D.documentElement.offsetWidth,
+        D.body.clientWidth, D.documentElement.clientWidth
+    );
+}
+
+function resizeIframe(obj)
+{
+ {obj.style.height = 0;};
+ {obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';}
+}
+
+function clk34(campo) {
+    var nrep = 0
+    var nchkrep = 0
+    var msg34
+
+    nrep=2;
+    msg34 = "Deve selecionar pelo menos 2 gráficos."
+	
+    for (var x=1; x <= 9; x++) {  
+        if (gById("lgrf" + x).checked) {
+            nchkrep=nchkrep+1
+        }
+	} 
+    if (nchkrep < nrep) {
+        gById(campo).checked=true;
+        alert("Atenção! \n\n" + msg34);
+    }  
+	return true;      
+}
+
+function recheca() {
+    var nrep = 0
+    var nchkrep = 0
+    var msg34
+
+    nrep=2;
+    msg34 = "Deve selecionar pelo menos 2 gráficos."
+	
+    for (var x=1; x <= 9; x++) {  
+        if (gById("lgrf" + x).checked) {
+            nchkrep=nchkrep+1
+        }
+	} 
+    if (nchkrep < nrep) {
+        for (var x=1; x <= 9; x++) {  
+            gById("lgrf" + x).checked=true;
+	    } 
+    }  
+	return true;    
+}
+
+function tipV(nr){
+	form1.acc.value=1;
+	form1.OpcTipV.value=nr;
+	form1.submit();
+}
+
+function fecTips(){
+// Deactivate all opentips of group "grpInfoTip"
+for (var i = 0; i < Opentip.tips.length; i ++) {
+  var tip = Opentip.tips[i];
+  //if (tip.options.group == "grpInfoTip") {
+    tip.hide();
+  //}
+}
+}
+//-->
+</script>
+
+</body>
+</html>
